@@ -16,8 +16,6 @@ Research Questions to Answer:
 Datasets to Be Used:
 
 - https://www.kaggle.com/mkechinov/ecommerce-behavior-data-from-multi-category-store
-- https://www.statista.com/statistics/272391/us-retail-e-commerce-sales-forecast/
-- https://www.statista.com/statistics/1112172/most-popular-product-categories-purchased-digital-buyers-usa/
 
 Rough Breakdown of Tasks:
 
