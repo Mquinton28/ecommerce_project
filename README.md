@@ -37,6 +37,7 @@ Research Questions to Answer:
 Datasets to Be Used:
 
 - https://www.kaggle.com/mkechinov/ecommerce-behavior-data-from-multi-category-store
+- https://www.census.gov/data/tables/2018/econ/e-stats/2018-e-stats.html
 
 Rough Breakdown of Tasks:
 
