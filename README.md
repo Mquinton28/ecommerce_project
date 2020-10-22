@@ -11,7 +11,7 @@ Research Questions to Answer:
     * Null:
         * If location relates to ecommerce and in-person shopping trends, then eccomerce trends will be affected.
     * Alt:
-        * If location does not relates to ecommerce and in-person shopping trends, then eccomerce trends will not be affected.
+        * If location does not relate to ecommerce and in-person shopping trends, then eccomerce trends will not be affected.
 
 2. Top five products in each state
 3. Search vs. purchase of products?
