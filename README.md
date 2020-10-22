@@ -8,10 +8,10 @@ Project Description/Outline:
 Research Questions to Answer:
 
 1. Do certain states in the U.S use ecommerce more than in-person shopping?
-    Null:
-        - If location relates to ecommerce and in-person shopping trends, then eccomerce trends will be affected.
-    Alt:
-        - If location does not relates to ecommerce and in-person shopping trends, then eccomerce trends will not be affected.
+    * Null:
+        * If location relates to ecommerce and in-person shopping trends, then eccomerce trends will be affected.
+    * Alt:
+        * If location does not relates to ecommerce and in-person shopping trends, then eccomerce trends will not be affected.
 
 2. Top five products in each state
 3. Search vs. purchase of products?
