@@ -134,3 +134,6 @@ config.py
 secrets.py
 .vscode
 .ipynb_checkpoints
+2019-Nov.csv
+2019-Oct.csv
+

@@ -7,7 +7,12 @@ Project Description/Outline:
 
 Research Questions to Answer:
 
-1. By state, which areas are using ecommerce more vs. in-person shopping?
+1. Do certain states in the U.S use ecommerce more than in-person shopping?
+    Null:
+        - If location relates to ecommerce and in-person shopping trends, then eccomerce trends will be affected.
+    Alt:
+        - If location does not relates to ecommerce and in-person shopping trends, then eccomerce trends will not be affected.
+
 2. Top five products in each state
 3. Search vs. purchase of products?
 4. Demographically, what do typical ecommerce customers look like
@@ -24,4 +29,3 @@ Rough Breakdown of Tasks:
 - Presentation Materials (Maria)
 - Visualization (Jeremy 3-4)
 - Visualization (Maria 3-4)
-
