@@ -32,6 +32,8 @@ Datasets to Be Used:
 Breakdown of Tasks:
 - Data Set Clean-Up, Pandas (Shared)
     - Est. timeline (1-2 days, finish by Monday)
+    - State data (Jeremy 3 - CA, AZ, FL)
+    - State data(Maria 2 - IN, PA)
 - Finalizing data (Shared)
     - Est. timeline (4 hours)
 - Presentation Materials (Maria)
