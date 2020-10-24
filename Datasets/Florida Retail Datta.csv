@@ -1,0 +1,165 @@
+GEO_ID,GEO_ID_F,NAME,NAICS2017,NAICS2017_F,NAICS2017_LABEL,YEAR,FIRM,ESTAB,RCPTOT,PAYANN,PAYQTR1,EMP,RCPTOT_IMP,PAYANN_IMP,EMP_IMP
+id,Geo Footnote,Geographic Area Name,2017 NAICS code,2017 NAICS Footnote,Meaning of NAICS code,Year,Number of firms,Number of establishments,"Sales, value of shipments, or revenue ($1,000)","Annual payroll ($1,000)","First-quarter payroll ($1,000)",Number of employees,"Range indicating percent of total sales, value of shipments, or revenue imputed",Range indicating percent of total annual payroll imputed,Range indicating percent of total employees imputed
+0400000US12,null,Florida,44-45,null,Retail trade,2017,47395,74496,333134553,29686190,7383314,1086052,Less than 10%,10% to less than 20%,10% to less than 20%
+0400000US12,null,Florida,441,null,Motor vehicle and parts dealers,2017,5913,8575,89004633,6615803,1642019,140962,10% to less than 20%,10% to less than 20%,20% to less than 30%
+0400000US12,null,Florida,442,null,Furniture and home furnishings stores,2017,2609,3936,9512727,1152351,283693,35877,10% to less than 20%,10% to less than 20%,30% to less than 40%
+0400000US12,null,Florida,443,null,Electronics and appliance stores,2017,1383,2137,8166697,827379,175704,24405,Less than 10%,30% to less than 40%,20% to less than 30%
+0400000US12,null,Florida,444,null,Building material and garden equipment and supplies dealers,2017,3008,4231,21290242,2259262,551581,78924,Less than 10%,Less than 10%,Less than 10%
+0400000US12,null,Florida,445,null,Food and beverage stores,2017,7000,9229,48063020,5036746,1299200,236165,Less than 10%,Less than 10%,Less than 10%
+0400000US12,null,Florida,446,null,Health and personal care stores,2017,3532,7516,23652459,2331427,592906,69778,Less than 10%,20% to less than 30%,20% to less than 30%
+0400000US12,null,Florida,447,null,Gasoline stations,2017,3907,6822,26527325,946234,225001,46857,Less than 10%,Less than 10%,Less than 10%
+0400000US12,null,Florida,448,null,Clothing and clothing accessories stores,2017,5158,11524,22967416,2643286,646588,147750,10% to less than 20%,20% to less than 30%,30% to less than 40%
+0400000US12,null,Florida,451,null,"Sporting goods, hobby, musical instrument, and book stores",2017,2138,2927,4593616,566388,134770,29297,10% to less than 20%,10% to less than 20%,20% to less than 30%
+0400000US12,null,Florida,452,null,General merchandise stores,2017,615,3361,45205985,4326575,1104950,177180,Less than 10%,10% to less than 20%,20% to less than 30%
+0400000US12,null,Florida,453,null,Miscellaneous store retailers,2017,6222,7874,7230375,1086081,268213,51786,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US12,null,Florida,454,null,Nonstore retailers,2017,6090,6364,26920058,1894658,458689,47071,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US12,null,Florida,4411,null,Automobile dealers,2017,2846,3227,75787395,5012730,1242740,93084,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US12,null,Florida,4412,null,Other motor vehicle dealers,2017,1246,1446,7847193,659730,158706,14861,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US12,null,Florida,4413,null,"Automotive parts, accessories, and tire stores",2017,1824,3902,5370045,943343,240573,33017,10% to less than 20%,30% to less than 40%,40% to less than 50%
+0400000US12,null,Florida,4421,null,Furniture stores,2017,1072,1826,5251315,682059,171455,17016,Less than 10%,Less than 10%,10% to less than 20%
+0400000US12,null,Florida,4422,null,Home furnishings stores,2017,1539,2110,4261412,470292,112238,18861,20% to less than 30%,20% to less than 30%,40% to less than 50%
+0400000US12,null,Florida,4431,null,Electronics and appliance stores,2017,1383,2137,8166697,827379,175704,24405,Less than 10%,30% to less than 40%,20% to less than 30%
+0400000US12,null,Florida,4441,null,Building material and supplies dealers,2017,2361,3474,19808512,2094785,512244,73175,Less than 10%,Less than 10%,Less than 10%
+0400000US12,null,Florida,4442,null,Lawn and garden equipment and supplies stores,2017,651,757,1481730,164477,39337,5749,10% to less than 20%,10% to less than 20%,20% to less than 30%
+0400000US12,null,Florida,4451,null,Grocery stores,2017,4554,6349,44123872,4693512,1214381,218283,Less than 10%,Less than 10%,Less than 10%
+0400000US12,null,Florida,4452,null,Specialty food stores,2017,1270,1451,1359039,171985,41733,9651,10% to less than 20%,10% to less than 20%,20% to less than 30%
+0400000US12,null,Florida,4453,null,"Beer, wine, and liquor stores",2017,1182,1429,2580109,171249,43086,8231,Less than 10%,Less than 10%,Less than 10%
+0400000US12,null,Florida,4461,null,Health and personal care stores,2017,3532,7516,23652459,2331427,592906,69778,Less than 10%,20% to less than 30%,20% to less than 30%
+0400000US12,null,Florida,4471,null,Gasoline stations,2017,3907,6822,26527325,946234,225001,46857,Less than 10%,Less than 10%,Less than 10%
+0400000US12,null,Florida,4481,null,Clothing stores,2017,3247,7733,17130157,1992081,476961,118598,10% to less than 20%,20% to less than 30%,30% to less than 40%
+0400000US12,null,Florida,4482,null,Shoe stores,2017,418,1783,2909470,299658,76304,18893,30% to less than 40%,30% to less than 40%,40% to less than 50%
+0400000US12,null,Florida,4483,null,"Jewelry, luggage, and leather goods stores",2017,1507,2008,2927789,351547,93323,10259,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US12,null,Florida,4511,null,"Sporting goods, hobby, and musical instrument stores",2017,1983,2526,4023821,496304,115996,24538,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US12,null,Florida,4512,null,Book stores and news dealers,2017,155,401,569795,70084,18774,4759,Less than 10%,30% to less than 40%,50% to less than 60%
+0400000US12,null,Florida,4522,null,Department stores,2017,7,263,4578402,697016,175698,31147,Less than 10%,10% to less than 20%,10% to less than 20%
+0400000US12,null,Florida,4523,null,"General merchandise stores, including warehouse clubs and supercenters",2017,610,3098,40627583,3629559,929252,146033,Less than 10%,10% to less than 20%,20% to less than 30%
+0400000US12,null,Florida,4531,null,Florists,2017,604,628,261810,57026,14682,2854,10% to less than 20%,Less than 10%,Less than 10%
+0400000US12,null,Florida,4532,null,"Office supplies, stationery, and gift stores",2017,1267,1874,2282105,321222,77639,17809,20% to less than 30%,20% to less than 30%,20% to less than 30%
+0400000US12,null,Florida,4533,null,Used merchandise stores,2017,1022,1411,943767,206951,52417,10717,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US12,null,Florida,4539,null,Other miscellaneous store retailers,2017,3332,3961,3742693,500882,123475,20406,10% to less than 20%,Less than 10%,Less than 10%
+0400000US12,null,Florida,4541,null,Electronic shopping and mail-order houses,2017,3698,3751,24003758,1452285,353515,35002,20% to less than 30%,10% to less than 20%,10% to less than 20%
+0400000US12,null,Florida,4542,null,Vending machine operators,2017,325,351,350644,56838,14343,1855,Less than 10%,40% to less than 50%,30% to less than 40%
+0400000US12,null,Florida,4543,null,Direct selling establishments,2017,2070,2262,2565656,385535,90831,10214,Less than 10%,10% to less than 20%,10% to less than 20%
+0400000US12,null,Florida,44111,null,New car dealers,2017,945,1224,67922684,4586285,1135885,82719,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US12,null,Florida,44112,null,Used car dealers,2017,1912,2003,7864711,426445,106855,10365,10% to less than 20%,Less than 10%,Less than 10%
+0400000US12,null,Florida,44121,null,Recreational vehicle dealers,2017,118,159,2619603,172423,42078,3323,10% to less than 20%,20% to less than 30%,10% to less than 20%
+0400000US12,null,Florida,44122,null,"Motorcycle, boat, and other motor vehicle dealers",2017,1128,1287,5227590,487307,116628,11538,10% to less than 20%,Less than 10%,10% to less than 20%
+0400000US12,null,Florida,44131,null,Automotive parts and accessories stores,2017,1055,2421,3656022,543416,144896,22571,20% to less than 30%,20% to less than 30%,40% to less than 50%
+0400000US12,null,Florida,44132,null,Tire dealers,2017,770,1481,1714023,399927,95677,10446,Less than 10%,40% to less than 50%,40% to less than 50%
+0400000US12,null,Florida,44211,null,Furniture stores,2017,1072,1826,5251315,682059,171455,17016,Less than 10%,Less than 10%,10% to less than 20%
+0400000US12,null,Florida,44221,null,Floor covering stores,2017,679,806,1772056,201915,49181,4955,Less than 10%,Less than 10%,Less than 10%
+0400000US12,null,Florida,44229,null,Other home furnishings stores,2017,860,1304,2489356,268377,63057,13906,30% to less than 40%,40% to less than 50%,60% to less than 70%
+0400000US12,null,Florida,44314,null,Electronics and appliance stores,2017,1383,2137,8166697,827379,175704,24405,Less than 10%,30% to less than 40%,20% to less than 30%
+0400000US12,null,Florida,44411,null,Home centers,2017,D,D,D,D,D,"25,000 to 49,999 employees",D,D,D
+0400000US12,null,Florida,44412,null,Paint and wallpaper stores,2017,D,D,D,D,D,"1,000 to 2,499 employees",D,D,D
+0400000US12,null,Florida,44413,null,Hardware stores,2017,504,748,1417017,191445,47975,7992,30% to less than 40%,20% to less than 30%,20% to less than 30%
+0400000US12,null,Florida,44419,null,Other building material dealers,2017,1639,1840,4899503,648459,154372,14569,10% to less than 20%,Less than 10%,Less than 10%
+0400000US12,null,Florida,44421,null,Outdoor power equipment stores,2017,190,207,466674,57497,13042,1470,20% to less than 30%,10% to less than 20%,10% to less than 20%
+0400000US12,null,Florida,44422,null,"Nursery, garden center, and farm supply stores",2017,461,550,1015056,106980,26295,4279,10% to less than 20%,20% to less than 30%,20% to less than 30%
+0400000US12,null,Florida,44511,null,Supermarkets and other grocery (except convenience) stores,2017,1999,3693,42231021,4551025,1179385,209494,Less than 10%,Less than 10%,Less than 10%
+0400000US12,null,Florida,44512,null,Convenience stores,2017,2556,2656,1892851,142487,34996,8789,10% to less than 20%,Less than 10%,Less than 10%
+0400000US12,null,Florida,44521,null,Meat markets,2017,190,221,366913,38302,8859,1734,Less than 10%,Less than 10%,20% to less than 30%
+0400000US12,null,Florida,44522,null,Fish and seafood markets,2017,172,175,217012,25982,5995,1093,Less than 10%,Less than 10%,Less than 10%
+0400000US12,null,Florida,44523,null,Fruit and vegetable markets,2017,217,224,396342,35135,8538,1818,10% to less than 20%,Less than 10%,10% to less than 20%
+0400000US12,null,Florida,44529,null,Other specialty food stores,2017,691,831,378772,72566,18341,5006,20% to less than 30%,20% to less than 30%,20% to less than 30%
+0400000US12,null,Florida,44531,null,"Beer, wine, and liquor stores",2017,1182,1429,2580109,171249,43086,8231,Less than 10%,Less than 10%,Less than 10%
+0400000US12,null,Florida,44611,null,Pharmacies and drug stores,2017,1252,3152,19508126,1664789,429541,42296,Less than 10%,30% to less than 40%,30% to less than 40%
+0400000US12,null,Florida,44612,null,"Cosmetics, beauty supplies, and perfume stores",2017,795,1452,1779848,231131,57035,12288,Less than 10%,Less than 10%,Less than 10%
+0400000US12,null,Florida,44613,null,Optical goods stores,2017,397,1081,960541,184560,44110,7144,10% to less than 20%,40% to less than 50%,50% to less than 60%
+0400000US12,null,Florida,44619,null,Other health and personal care stores,2017,1097,1831,1403944,250947,62220,8050,20% to less than 30%,10% to less than 20%,10% to less than 20%
+0400000US12,null,Florida,44711,null,Gasoline stations with convenience stores,2017,3637,5890,21737761,844959,200449,42358,Less than 10%,Less than 10%,Less than 10%
+0400000US12,null,Florida,44719,null,Other gasoline stations,2017,289,932,4789564,101275,24552,4499,Less than 10%,Less than 10%,10% to less than 20%
+0400000US12,null,Florida,44811,null,Men's clothing stores,2017,260,517,721259,104460,27148,4334,20% to less than 30%,20% to less than 30%,30% to less than 40%
+0400000US12,null,Florida,44812,null,Women's clothing stores,2017,1071,2334,2931017,415552,107406,24261,30% to less than 40%,40% to less than 50%,40% to less than 50%
+0400000US12,null,Florida,44813,null,Children's and infants' clothing stores,2017,161,454,559546,67450,16824,4946,Less than 10%,20% to less than 30%,10% to less than 20%
+0400000US12,null,Florida,44814,null,Family clothing stores,2017,693,2578,10509984,1074188,241697,68032,Less than 10%,20% to less than 30%,20% to less than 30%
+0400000US12,null,Florida,44815,null,Clothing accessories stores,2017,415,806,1033396,131612,34413,6635,50% to less than 60%,40% to less than 50%,30% to less than 40%
+0400000US12,null,Florida,44819,null,Other clothing stores,2017,703,1044,1374955,198819,49473,10390,20% to less than 30%,10% to less than 20%,10% to less than 20%
+0400000US12,null,Florida,44821,null,Shoe stores,2017,418,1783,2909470,299658,76304,18893,30% to less than 40%,30% to less than 40%,40% to less than 50%
+0400000US12,null,Florida,44831,null,Jewelry stores,2017,1445,1894,2612995,326814,87216,9698,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US12,null,Florida,44832,null,Luggage and leather goods stores,2017,62,114,314794,24733,6107,561,10% to less than 20%,10% to less than 20%,20% to less than 30%
+0400000US12,null,Florida,45111,null,Sporting goods stores,2017,1370,1588,2504866,302342,69278,12412,20% to less than 30%,20% to less than 30%,20% to less than 30%
+0400000US12,null,Florida,45112,null,"Hobby, toy, and game stores",2017,305,521,1044078,124421,30031,8466,Less than 10%,Less than 10%,Less than 10%
+0400000US12,null,Florida,45113,null,"Sewing, needlework, and piece goods stores",2017,162,217,231736,31567,7730,2150,Less than 10%,Less than 10%,Less than 10%
+0400000US12,null,Florida,45114,null,Musical instrument and supplies stores,2017,147,200,243141,37974,8957,1510,20% to less than 30%,10% to less than 20%,20% to less than 30%
+0400000US12,null,Florida,45121,null,Book stores and news dealers,2017,155,401,569795,70084,18774,4759,Less than 10%,30% to less than 40%,50% to less than 60%
+0400000US12,null,Florida,45221,null,Department stores,2017,7,263,4578402,697016,175698,31147,Less than 10%,10% to less than 20%,10% to less than 20%
+0400000US12,null,Florida,45231,null,"General merchandise stores, including warehouse clubs and supercenters",2017,610,3098,40627583,3629559,929252,146033,Less than 10%,10% to less than 20%,20% to less than 30%
+0400000US12,null,Florida,45311,null,Florists,2017,604,628,261810,57026,14682,2854,10% to less than 20%,Less than 10%,Less than 10%
+0400000US12,null,Florida,45321,null,Office supplies and stationery stores,2017,182,402,894517,95331,22727,5155,Less than 10%,Less than 10%,Less than 10%
+0400000US12,null,Florida,45322,null,"Gift, novelty, and souvenir stores",2017,1085,1472,1387588,225891,54912,12654,30% to less than 40%,30% to less than 40%,30% to less than 40%
+0400000US12,null,Florida,45331,null,Used merchandise stores,2017,1022,1411,943767,206951,52417,10717,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US12,null,Florida,45391,null,Pet and pet supplies stores,2017,504,811,1261153,169851,43552,8139,Less than 10%,Less than 10%,Less than 10%
+0400000US12,null,Florida,45392,null,Art dealers,2017,406,425,281032,39778,10446,1197,20% to less than 30%,10% to less than 20%,10% to less than 20%
+0400000US12,null,Florida,45393,null,Manufactured (mobile) home dealers,2017,84,117,306978,16406,3839,365,Less than 10%,Less than 10%,Less than 10%
+0400000US12,null,Florida,45399,null,All other miscellaneous store retailers,2017,2338,2608,1893530,274847,65638,10705,10% to less than 20%,Less than 10%,10% to less than 20%
+0400000US12,null,Florida,45411,null,Electronic shopping and mail-order houses,2017,3698,3751,24003758,1452285,353515,35002,20% to less than 30%,10% to less than 20%,10% to less than 20%
+0400000US12,null,Florida,45421,null,Vending machine operators,2017,325,351,350644,56838,14343,1855,Less than 10%,40% to less than 50%,30% to less than 40%
+0400000US12,null,Florida,45431,null,Fuel dealers,2017,108,191,612076,75383,17593,1704,Less than 10%,Less than 10%,10% to less than 20%
+0400000US12,null,Florida,45439,null,Other direct selling establishments,2017,1962,2071,1953580,310152,73238,8510,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US12,null,Florida,441110,null,New car dealers,2017,945,1224,67922684,4586285,1135885,82719,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US12,null,Florida,441120,null,Used car dealers,2017,1912,2003,7864711,426445,106855,10365,10% to less than 20%,Less than 10%,Less than 10%
+0400000US12,null,Florida,441210,null,Recreational vehicle dealers,2017,118,159,2619603,172423,42078,3323,10% to less than 20%,20% to less than 30%,10% to less than 20%
+0400000US12,null,Florida,441222,null,Boat dealers,2017,628,741,3409325,285045,67449,6321,10% to less than 20%,Less than 10%,10% to less than 20%
+0400000US12,null,Florida,441228,null,"Motorcycle, ATV, and all other motor vehicle dealers",2017,502,546,1818265,202262,49179,5217,10% to less than 20%,Less than 10%,Less than 10%
+0400000US12,null,Florida,441310,null,Automotive parts and accessories stores,2017,1055,2421,3656022,543416,144896,22571,20% to less than 30%,20% to less than 30%,40% to less than 50%
+0400000US12,null,Florida,441320,null,Tire dealers,2017,770,1481,1714023,399927,95677,10446,Less than 10%,40% to less than 50%,40% to less than 50%
+0400000US12,null,Florida,442110,null,Furniture stores,2017,1072,1826,5251315,682059,171455,17016,Less than 10%,Less than 10%,10% to less than 20%
+0400000US12,null,Florida,442210,null,Floor covering stores,2017,679,806,1772056,201915,49181,4955,Less than 10%,Less than 10%,Less than 10%
+0400000US12,null,Florida,442291,null,Window treatment stores,2017,265,272,172790,30923,7310,874,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US12,null,Florida,442299,null,All other home furnishings stores,2017,595,1032,2316566,237454,55747,13032,30% to less than 40%,50% to less than 60%,60% to less than 70%
+0400000US12,null,Florida,443141,null,Household appliance stores,2017,332,480,959092,116939,31105,3720,10% to less than 20%,10% to less than 20%,Less than 10%
+0400000US12,null,Florida,443142,null,Electronics stores,2017,1052,1657,7207605,710440,144599,20685,Less than 10%,40% to less than 50%,20% to less than 30%
+0400000US12,null,Florida,444110,null,Home centers,2017,D,D,D,D,D,"25,000 to 49,999 employees",D,D,D
+0400000US12,null,Florida,444120,null,Paint and wallpaper stores,2017,D,D,D,D,D,"1,000 to 2,499 employees",D,D,D
+0400000US12,null,Florida,444130,null,Hardware stores,2017,504,748,1417017,191445,47975,7992,30% to less than 40%,20% to less than 30%,20% to less than 30%
+0400000US12,null,Florida,444190,null,Other building material dealers,2017,1639,1840,4899503,648459,154372,14569,10% to less than 20%,Less than 10%,Less than 10%
+0400000US12,null,Florida,444210,null,Outdoor power equipment stores,2017,190,207,466674,57497,13042,1470,20% to less than 30%,10% to less than 20%,10% to less than 20%
+0400000US12,null,Florida,444220,null,"Nursery, garden center, and farm supply stores",2017,461,550,1015056,106980,26295,4279,10% to less than 20%,20% to less than 30%,20% to less than 30%
+0400000US12,null,Florida,445110,null,Supermarkets and other grocery (except convenience) stores,2017,1999,3693,42231021,4551025,1179385,209494,Less than 10%,Less than 10%,Less than 10%
+0400000US12,null,Florida,445120,null,Convenience stores,2017,2556,2656,1892851,142487,34996,8789,10% to less than 20%,Less than 10%,Less than 10%
+0400000US12,null,Florida,445210,null,Meat markets,2017,190,221,366913,38302,8859,1734,Less than 10%,Less than 10%,20% to less than 30%
+0400000US12,null,Florida,445220,null,Fish and seafood markets,2017,172,175,217012,25982,5995,1093,Less than 10%,Less than 10%,Less than 10%
+0400000US12,null,Florida,445230,null,Fruit and vegetable markets,2017,217,224,396342,35135,8538,1818,10% to less than 20%,Less than 10%,10% to less than 20%
+0400000US12,null,Florida,445291,null,Baked goods stores,2017,203,214,72803,14657,4151,1135,20% to less than 30%,Less than 10%,10% to less than 20%
+0400000US12,null,Florida,445292,null,Confectionery and nut stores,2017,139,210,106804,20490,5111,1532,40% to less than 50%,30% to less than 40%,30% to less than 40%
+0400000US12,null,Florida,445299,null,All other specialty food stores,2017,349,407,199165,37419,9079,2339,10% to less than 20%,20% to less than 30%,20% to less than 30%
+0400000US12,null,Florida,445310,null,"Beer, wine, and liquor stores",2017,1182,1429,2580109,171249,43086,8231,Less than 10%,Less than 10%,Less than 10%
+0400000US12,null,Florida,446110,null,Pharmacies and drug stores,2017,1252,3152,19508126,1664789,429541,42296,Less than 10%,30% to less than 40%,30% to less than 40%
+0400000US12,null,Florida,446120,null,"Cosmetics, beauty supplies, and perfume stores",2017,795,1452,1779848,231131,57035,12288,Less than 10%,Less than 10%,Less than 10%
+0400000US12,null,Florida,446130,null,Optical goods stores,2017,397,1081,960541,184560,44110,7144,10% to less than 20%,40% to less than 50%,50% to less than 60%
+0400000US12,null,Florida,446191,null,Food (health) supplement stores,2017,443,890,521582,77069,18890,3619,10% to less than 20%,Less than 10%,10% to less than 20%
+0400000US12,null,Florida,446199,null,All other health and personal care stores,2017,654,941,882362,173878,43330,4431,20% to less than 30%,10% to less than 20%,10% to less than 20%
+0400000US12,null,Florida,447110,null,Gasoline stations with convenience stores,2017,3637,5890,21737761,844959,200449,42358,Less than 10%,Less than 10%,Less than 10%
+0400000US12,null,Florida,447190,null,Other gasoline stations,2017,289,932,4789564,101275,24552,4499,Less than 10%,Less than 10%,10% to less than 20%
+0400000US12,null,Florida,448110,null,Men's clothing stores,2017,260,517,721259,104460,27148,4334,20% to less than 30%,20% to less than 30%,30% to less than 40%
+0400000US12,null,Florida,448120,null,Women's clothing stores,2017,1071,2334,2931017,415552,107406,24261,30% to less than 40%,40% to less than 50%,40% to less than 50%
+0400000US12,null,Florida,448130,null,Children's and infants' clothing stores,2017,161,454,559546,67450,16824,4946,Less than 10%,20% to less than 30%,10% to less than 20%
+0400000US12,null,Florida,448140,null,Family clothing stores,2017,693,2578,10509984,1074188,241697,68032,Less than 10%,20% to less than 30%,20% to less than 30%
+0400000US12,null,Florida,448150,null,Clothing accessories stores,2017,415,806,1033396,131612,34413,6635,50% to less than 60%,40% to less than 50%,30% to less than 40%
+0400000US12,null,Florida,448190,null,Other clothing stores,2017,703,1044,1374955,198819,49473,10390,20% to less than 30%,10% to less than 20%,10% to less than 20%
+0400000US12,null,Florida,448210,null,Shoe stores,2017,418,1783,2909470,299658,76304,18893,30% to less than 40%,30% to less than 40%,40% to less than 50%
+0400000US12,null,Florida,448310,null,Jewelry stores,2017,1445,1894,2612995,326814,87216,9698,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US12,null,Florida,448320,null,Luggage and leather goods stores,2017,62,114,314794,24733,6107,561,10% to less than 20%,10% to less than 20%,20% to less than 30%
+0400000US12,null,Florida,451110,null,Sporting goods stores,2017,1370,1588,2504866,302342,69278,12412,20% to less than 30%,20% to less than 30%,20% to less than 30%
+0400000US12,null,Florida,451120,null,"Hobby, toy, and game stores",2017,305,521,1044078,124421,30031,8466,Less than 10%,Less than 10%,Less than 10%
+0400000US12,null,Florida,451130,null,"Sewing, needlework, and piece goods stores",2017,162,217,231736,31567,7730,2150,Less than 10%,Less than 10%,Less than 10%
+0400000US12,null,Florida,451140,null,Musical instrument and supplies stores,2017,147,200,243141,37974,8957,1510,20% to less than 30%,10% to less than 20%,20% to less than 30%
+0400000US12,null,Florida,451211,null,Book stores,2017,140,381,555720,67613,18162,4643,Less than 10%,30% to less than 40%,50% to less than 60%
+0400000US12,null,Florida,451212,null,News dealers and newsstands,2017,15,20,14075,2471,612,116,20% to less than 30%,20% to less than 30%,30% to less than 40%
+0400000US12,null,Florida,452210,null,Department stores,2017,7,263,4578402,697016,175698,31147,Less than 10%,10% to less than 20%,10% to less than 20%
+0400000US12,null,Florida,452311,null,Warehouse clubs and supercenters,2017,5,480,36335722,3246599,834959,120656,Less than 10%,10% to less than 20%,10% to less than 20%
+0400000US12,null,Florida,452319,null,All other general merchandise stores,2017,605,2618,4291861,382960,94293,25377,Less than 10%,Less than 10%,50% to less than 60%
+0400000US12,null,Florida,453110,null,Florists,2017,604,628,261810,57026,14682,2854,10% to less than 20%,Less than 10%,Less than 10%
+0400000US12,null,Florida,453210,null,Office supplies and stationery stores,2017,182,402,894517,95331,22727,5155,Less than 10%,Less than 10%,Less than 10%
+0400000US12,null,Florida,453220,null,"Gift, novelty, and souvenir stores",2017,1085,1472,1387588,225891,54912,12654,30% to less than 40%,30% to less than 40%,30% to less than 40%
+0400000US12,null,Florida,453310,null,Used merchandise stores,2017,1022,1411,943767,206951,52417,10717,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US12,null,Florida,453910,null,Pet and pet supplies stores,2017,504,811,1261153,169851,43552,8139,Less than 10%,Less than 10%,Less than 10%
+0400000US12,null,Florida,453920,null,Art dealers,2017,406,425,281032,39778,10446,1197,20% to less than 30%,10% to less than 20%,10% to less than 20%
+0400000US12,null,Florida,453930,null,Manufactured (mobile) home dealers,2017,84,117,306978,16406,3839,365,Less than 10%,Less than 10%,Less than 10%
+0400000US12,null,Florida,453991,null,Tobacco stores,2017,635,670,378077,44735,10751,2211,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US12,null,Florida,453998,null,All other miscellaneous store retailers (except tobacco stores),2017,1705,1938,1515453,230112,54887,8494,10% to less than 20%,Less than 10%,Less than 10%
+0400000US12,null,Florida,454110,null,Electronic shopping and mail-order houses,2017,3698,3751,24003758,1452285,353515,35002,20% to less than 30%,10% to less than 20%,10% to less than 20%
+0400000US12,null,Florida,454210,null,Vending machine operators,2017,325,351,350644,56838,14343,1855,Less than 10%,40% to less than 50%,30% to less than 40%
+0400000US12,null,Florida,454310,null,Fuel dealers,2017,108,191,612076,75383,17593,1704,Less than 10%,Less than 10%,10% to less than 20%
+0400000US12,null,Florida,454390,null,Other direct selling establishments,2017,1962,2071,1953580,310152,73238,8510,10% to less than 20%,10% to less than 20%,10% to less than 20%

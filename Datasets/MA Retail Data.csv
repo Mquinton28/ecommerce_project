@@ -1,0 +1,163 @@
+GEO_ID,GEO_ID_F,NAME,NAICS2017,NAICS2017_F,NAICS2017_LABEL,YEAR,FIRM,ESTAB,RCPTOT,PAYANN,PAYQTR1,EMP,RCPTOT_IMP,PAYANN_IMP,EMP_IMP
+id,Geo Footnote,Geographic Area Name,2017 NAICS code,2017 NAICS Footnote,Meaning of NAICS code,Year,Number of firms,Number of establishments,"Sales, value of shipments, or revenue ($1,000)","Annual payroll ($1,000)","First-quarter payroll ($1,000)",Number of employees,"Range indicating percent of total sales, value of shipments, or revenue imputed",Range indicating percent of total annual payroll imputed,Range indicating percent of total employees imputed
+0400000US25,null,Massachusetts,44-45,null,Retail trade,2017,15804,23928,110194522,10911481,2644279,364204,10% to less than 20%,20% to less than 30%,20% to less than 30%
+0400000US25,null,Massachusetts,441,null,Motor vehicle and parts dealers,2017,1534,2147,24651261,1894148,440464,37828,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US25,null,Massachusetts,442,null,Furniture and home furnishings stores,2017,747,1125,2893929,352549,82327,11099,10% to less than 20%,20% to less than 30%,40% to less than 50%
+0400000US25,null,Massachusetts,443,null,Electronics and appliance stores,2017,424,621,2197894,276867,62960,7789,Less than 10%,30% to less than 40%,20% to less than 30%
+0400000US25,null,Massachusetts,444,null,Building material and garden equipment and supplies dealers,2017,1173,1628,7939473,1030382,242336,27403,10% to less than 20%,Less than 10%,10% to less than 20%
+0400000US25,null,Massachusetts,445,null,Food and beverage stores,2017,4185,5048,21506093,2444893,608136,98789,Less than 10%,20% to less than 30%,20% to less than 30%
+0400000US25,null,Massachusetts,446,null,Health and personal care stores,2017,605,1927,8736600,856363,218445,28246,Less than 10%,40% to less than 50%,10% to less than 20%
+0400000US25,null,Massachusetts,447,null,Gasoline stations,2017,1275,2058,7665405,322115,76723,13079,20% to less than 30%,10% to less than 20%,10% to less than 20%
+0400000US25,null,Massachusetts,448,null,Clothing and clothing accessories stores,2017,1495,3378,6795765,890214,210781,46773,20% to less than 30%,30% to less than 40%,40% to less than 50%
+0400000US25,null,Massachusetts,451,null,"Sporting goods, hobby, musical instrument, and book stores",2017,747,1129,1842280,253207,59679,14123,10% to less than 20%,10% to less than 20%,20% to less than 30%
+0400000US25,null,Massachusetts,452,null,General merchandise stores,2017,193,735,9360168,1029497,255944,42020,Less than 10%,20% to less than 30%,40% to less than 50%
+0400000US25,null,Massachusetts,453,null,Miscellaneous store retailers,2017,1868,2404,2322760,392102,90116,17344,10% to less than 20%,Less than 10%,10% to less than 20%
+0400000US25,null,Massachusetts,454,null,Nonstore retailers,2017,1633,1728,14282894,1169144,296368,19711,10% to less than 20%,30% to less than 40%,20% to less than 30%
+0400000US25,null,Massachusetts,4411,null,Automobile dealers,2017,912,1031,22305506,1513601,351303,26913,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US25,null,Massachusetts,4412,null,Other motor vehicle dealers,2017,198,214,760246,89516,17922,1920,Less than 10%,Less than 10%,10% to less than 20%
+0400000US25,null,Massachusetts,4413,null,"Automotive parts, accessories, and tire stores",2017,426,902,1585509,291031,71239,8995,10% to less than 20%,20% to less than 30%,30% to less than 40%
+0400000US25,null,Massachusetts,4421,null,Furniture stores,2017,238,425,1493396,170030,39283,3732,Less than 10%,Less than 10%,Less than 10%
+0400000US25,null,Massachusetts,4422,null,Home furnishings stores,2017,509,700,1400533,182519,43044,7367,30% to less than 40%,40% to less than 50%,60% to less than 70%
+0400000US25,null,Massachusetts,4431,null,Electronics and appliance stores,2017,424,621,2197894,276867,62960,7789,Less than 10%,30% to less than 40%,20% to less than 30%
+0400000US25,null,Massachusetts,4441,null,Building material and supplies dealers,2017,884,1307,7328769,933709,224462,24677,10% to less than 20%,Less than 10%,10% to less than 20%
+0400000US25,null,Massachusetts,4442,null,Lawn and garden equipment and supplies stores,2017,292,321,610704,96673,17874,2726,Less than 10%,Less than 10%,10% to less than 20%
+0400000US25,null,Massachusetts,4451,null,Grocery stores,2017,2335,3047,18105732,2092443,525019,85180,Less than 10%,20% to less than 30%,30% to less than 40%
+0400000US25,null,Massachusetts,4452,null,Specialty food stores,2017,499,562,728946,116459,25455,4582,10% to less than 20%,Less than 10%,10% to less than 20%
+0400000US25,null,Massachusetts,4453,null,"Beer, wine, and liquor stores",2017,1359,1439,2671415,235991,57662,9027,Less than 10%,Less than 10%,Less than 10%
+0400000US25,null,Massachusetts,4461,null,Health and personal care stores,2017,605,1927,8736600,856363,218445,28246,Less than 10%,40% to less than 50%,10% to less than 20%
+0400000US25,null,Massachusetts,4471,null,Gasoline stations,2017,1275,2058,7665405,322115,76723,13079,20% to less than 30%,10% to less than 20%,10% to less than 20%
+0400000US25,null,Massachusetts,4481,null,Clothing stores,2017,902,2252,5152279,676455,158192,37713,20% to less than 30%,30% to less than 40%,40% to less than 50%
+0400000US25,null,Massachusetts,4482,null,Shoe stores,2017,139,527,831402,107121,25357,5909,30% to less than 40%,30% to less than 40%,40% to less than 50%
+0400000US25,null,Massachusetts,4483,null,"Jewelry, luggage, and leather goods stores",2017,462,599,812084,106638,27232,3151,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US25,null,Massachusetts,4511,null,"Sporting goods, hobby, and musical instrument stores",2017,636,905,1460231,202865,46788,11101,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US25,null,Massachusetts,4512,null,Book stores and news dealers,2017,111,224,382049,50342,12891,3022,10% to less than 20%,40% to less than 50%,50% to less than 60%
+0400000US25,null,Massachusetts,4522,null,Department stores,2017,6,71,1334705,226245,56850,9287,Less than 10%,10% to less than 20%,20% to less than 30%
+0400000US25,null,Massachusetts,4523,null,"General merchandise stores, including warehouse clubs and supercenters",2017,189,664,8025463,803252,199094,32733,Less than 10%,20% to less than 30%,40% to less than 50%
+0400000US25,null,Massachusetts,4531,null,Florists,2017,320,327,138086,30175,7037,1453,10% to less than 20%,Less than 10%,Less than 10%
+0400000US25,null,Massachusetts,4532,null,"Office supplies, stationery, and gift stores",2017,474,723,798885,121882,27389,6765,10% to less than 20%,Less than 10%,10% to less than 20%
+0400000US25,null,Massachusetts,4533,null,Used merchandise stores,2017,289,366,297608,69986,16952,3230,10% to less than 20%,10% to less than 20%,20% to less than 30%
+0400000US25,null,Massachusetts,4539,null,Other miscellaneous store retailers,2017,785,988,1088181,170059,38738,5896,10% to less than 20%,Less than 10%,10% to less than 20%
+0400000US25,null,Massachusetts,4541,null,Electronic shopping and mail-order houses,2017,760,773,11450154,752805,189392,11320,10% to less than 20%,40% to less than 50%,30% to less than 40%
+0400000US25,null,Massachusetts,4542,null,Vending machine operators,2017,66,67,78564,13121,3353,383,Less than 10%,Less than 10%,Less than 10%
+0400000US25,null,Massachusetts,4543,null,Direct selling establishments,2017,808,888,2754176,403218,103623,8008,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US25,null,Massachusetts,44111,null,New car dealers,2017,383,475,20136948,1380631,320201,24008,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US25,null,Massachusetts,44112,null,Used car dealers,2017,536,556,2168558,132970,31102,2905,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US25,null,Massachusetts,44121,null,Recreational vehicle dealers,2017,26,27,169907,17158,3549,400,Less than 10%,Less than 10%,10% to less than 20%
+0400000US25,null,Massachusetts,44122,null,"Motorcycle, boat, and other motor vehicle dealers",2017,172,187,590339,72358,14373,1520,10% to less than 20%,Less than 10%,10% to less than 20%
+0400000US25,null,Massachusetts,44131,null,Automotive parts and accessories stores,2017,290,600,1029191,177999,44402,6181,10% to less than 20%,10% to less than 20%,40% to less than 50%
+0400000US25,null,Massachusetts,44132,null,Tire dealers,2017,137,302,556318,113032,26837,2814,Less than 10%,20% to less than 30%,30% to less than 40%
+0400000US25,null,Massachusetts,44211,null,Furniture stores,2017,238,425,1493396,170030,39283,3732,Less than 10%,Less than 10%,Less than 10%
+0400000US25,null,Massachusetts,44221,null,Floor covering stores,2017,202,231,350063,56916,14290,1216,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US25,null,Massachusetts,44229,null,Other home furnishings stores,2017,307,469,1050470,125603,28754,6151,40% to less than 50%,50% to less than 60%,60% to less than 70%
+0400000US25,null,Massachusetts,44314,null,Electronics and appliance stores,2017,424,621,2197894,276867,62960,7789,Less than 10%,30% to less than 40%,20% to less than 30%
+0400000US25,null,Massachusetts,44411,null,Home centers,2017,35,110,3365155,347528,83711,12510,Less than 10%,Less than 10%,Less than 10%
+0400000US25,null,Massachusetts,44412,null,Paint and wallpaper stores,2017,63,149,203727,29146,7328,836,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US25,null,Massachusetts,44413,null,Hardware stores,2017,188,302,512781,84652,19827,3052,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US25,null,Massachusetts,44419,null,Other building material dealers,2017,609,746,3247106,472383,113596,8279,20% to less than 30%,10% to less than 20%,10% to less than 20%
+0400000US25,null,Massachusetts,44421,null,Outdoor power equipment stores,2017,71,72,128442,18335,4306,525,Less than 10%,Less than 10%,Less than 10%
+0400000US25,null,Massachusetts,44422,null,"Nursery, garden center, and farm supply stores",2017,221,249,482262,78338,13568,2201,Less than 10%,Less than 10%,20% to less than 30%
+0400000US25,null,Massachusetts,44511,null,Supermarkets and other grocery (except convenience) stores,2017,886,1386,16860750,1970689,494367,78599,Less than 10%,20% to less than 30%,30% to less than 40%
+0400000US25,null,Massachusetts,44512,null,Convenience stores,2017,1449,1661,1244982,121754,30652,6581,10% to less than 20%,Less than 10%,10% to less than 20%
+0400000US25,null,Massachusetts,44521,null,Meat markets,2017,90,95,190425,26098,5674,920,Less than 10%,Less than 10%,10% to less than 20%
+0400000US25,null,Massachusetts,44522,null,Fish and seafood markets,2017,99,102,198173,22041,4817,732,10% to less than 20%,Less than 10%,10% to less than 20%
+0400000US25,null,Massachusetts,44523,null,Fruit and vegetable markets,2017,61,64,160685,30563,6353,979,Less than 10%,Less than 10%,Less than 10%
+0400000US25,null,Massachusetts,44529,null,Other specialty food stores,2017,249,301,179663,37757,8611,1951,20% to less than 30%,10% to less than 20%,20% to less than 30%
+0400000US25,null,Massachusetts,44531,null,"Beer, wine, and liquor stores",2017,1359,1439,2671415,235991,57662,9027,Less than 10%,Less than 10%,Less than 10%
+0400000US25,null,Massachusetts,44611,null,Pharmacies and drug stores,2017,189,974,7701478,666704,172623,21235,Less than 10%,40% to less than 50%,Less than 10%
+0400000US25,null,Massachusetts,44612,null,"Cosmetics, beauty supplies, and perfume stores",2017,105,299,413457,60684,15295,3134,Less than 10%,Less than 10%,Less than 10%
+0400000US25,null,Massachusetts,44613,null,Optical goods stores,2017,138,311,261671,58704,13705,1941,10% to less than 20%,40% to less than 50%,50% to less than 60%
+0400000US25,null,Massachusetts,44619,null,Other health and personal care stores,2017,175,343,359994,70271,16822,1936,10% to less than 20%,Less than 10%,10% to less than 20%
+0400000US25,null,Massachusetts,44711,null,Gasoline stations with convenience stores,2017,749,1419,5895931,230503,54295,9802,20% to less than 30%,10% to less than 20%,20% to less than 30%
+0400000US25,null,Massachusetts,44719,null,Other gasoline stations,2017,539,639,1769474,91612,22428,3277,20% to less than 30%,Less than 10%,10% to less than 20%
+0400000US25,null,Massachusetts,44811,null,Men's clothing stores,2017,99,180,252243,43710,9836,1440,20% to less than 30%,20% to less than 30%,20% to less than 30%
+0400000US25,null,Massachusetts,44812,null,Women's clothing stores,2017,327,727,1053729,164917,38681,8636,30% to less than 40%,40% to less than 50%,40% to less than 50%
+0400000US25,null,Massachusetts,44813,null,Children's and infants' clothing stores,2017,62,187,216994,33550,7801,2141,Less than 10%,20% to less than 30%,20% to less than 30%
+0400000US25,null,Massachusetts,44814,null,Family clothing stores,2017,200,715,2909122,339920,79309,20793,10% to less than 20%,40% to less than 50%,50% to less than 60%
+0400000US25,null,Massachusetts,44815,null,Clothing accessories stores,2017,81,190,236465,30309,7430,1517,40% to less than 50%,30% to less than 40%,20% to less than 30%
+0400000US25,null,Massachusetts,44819,null,Other clothing stores,2017,159,253,483726,64049,15135,3186,20% to less than 30%,10% to less than 20%,20% to less than 30%
+0400000US25,null,Massachusetts,44821,null,Shoe stores,2017,139,527,831402,107121,25357,5909,30% to less than 40%,30% to less than 40%,40% to less than 50%
+0400000US25,null,Massachusetts,44831,null,Jewelry stores,2017,443,568,751112,100795,25829,3016,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US25,null,Massachusetts,44832,null,Luggage and leather goods stores,2017,19,31,60972,5843,1403,135,10% to less than 20%,10% to less than 20%,20% to less than 30%
+0400000US25,null,Massachusetts,45111,null,Sporting goods stores,2017,375,519,862762,112826,25454,5337,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US25,null,Massachusetts,45112,null,"Hobby, toy, and game stores",2017,132,218,406476,57096,13580,4249,Less than 10%,10% to less than 20%,10% to less than 20%
+0400000US25,null,Massachusetts,45113,null,"Sewing, needlework, and piece goods stores",2017,68,93,82338,13816,3161,839,Less than 10%,Less than 10%,Less than 10%
+0400000US25,null,Massachusetts,45114,null,Musical instrument and supplies stores,2017,61,75,108655,19127,4593,676,10% to less than 20%,Less than 10%,Less than 10%
+0400000US25,null,Massachusetts,45121,null,Book stores and news dealers,2017,111,224,382049,50342,12891,3022,10% to less than 20%,40% to less than 50%,50% to less than 60%
+0400000US25,null,Massachusetts,45221,null,Department stores,2017,6,71,1334705,226245,56850,9287,Less than 10%,10% to less than 20%,20% to less than 30%
+0400000US25,null,Massachusetts,45231,null,"General merchandise stores, including warehouse clubs and supercenters",2017,189,664,8025463,803252,199094,32733,Less than 10%,20% to less than 30%,40% to less than 50%
+0400000US25,null,Massachusetts,45311,null,Florists,2017,320,327,138086,30175,7037,1453,10% to less than 20%,Less than 10%,Less than 10%
+0400000US25,null,Massachusetts,45321,null,Office supplies and stationery stores,2017,42,114,341274,45586,10995,2313,Less than 10%,Less than 10%,Less than 10%
+0400000US25,null,Massachusetts,45322,null,"Gift, novelty, and souvenir stores",2017,432,609,457611,76296,16394,4452,10% to less than 20%,10% to less than 20%,20% to less than 30%
+0400000US25,null,Massachusetts,45331,null,Used merchandise stores,2017,289,366,297608,69986,16952,3230,10% to less than 20%,10% to less than 20%,20% to less than 30%
+0400000US25,null,Massachusetts,45391,null,Pet and pet supplies stores,2017,122,235,419538,67928,17487,2802,Less than 10%,Less than 10%,Less than 10%
+0400000US25,null,Massachusetts,45392,null,Art dealers,2017,150,155,91828,15013,3076,339,10% to less than 20%,Less than 10%,Less than 10%
+0400000US25,null,Massachusetts,45399,null,All other miscellaneous store retailers,2017,D,D,D,D,D,"2,500 to 4,999 employees",D,D,D
+0400000US25,null,Massachusetts,45411,null,Electronic shopping and mail-order houses,2017,760,773,11450154,752805,189392,11320,10% to less than 20%,40% to less than 50%,30% to less than 40%
+0400000US25,null,Massachusetts,45421,null,Vending machine operators,2017,66,67,78564,13121,3353,383,Less than 10%,Less than 10%,Less than 10%
+0400000US25,null,Massachusetts,45431,null,Fuel dealers,2017,397,450,2038262,273549,71037,5084,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US25,null,Massachusetts,45439,null,Other direct selling establishments,2017,411,438,715914,129669,32586,2924,10% to less than 20%,Less than 10%,Less than 10%
+0400000US25,null,Massachusetts,441110,null,New car dealers,2017,383,475,20136948,1380631,320201,24008,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US25,null,Massachusetts,441120,null,Used car dealers,2017,536,556,2168558,132970,31102,2905,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US25,null,Massachusetts,441210,null,Recreational vehicle dealers,2017,26,27,169907,17158,3549,400,Less than 10%,Less than 10%,10% to less than 20%
+0400000US25,null,Massachusetts,441222,null,Boat dealers,2017,96,109,348320,43930,8489,842,10% to less than 20%,Less than 10%,10% to less than 20%
+0400000US25,null,Massachusetts,441228,null,"Motorcycle, ATV, and all other motor vehicle dealers",2017,76,78,242019,28428,5884,678,Less than 10%,Less than 10%,10% to less than 20%
+0400000US25,null,Massachusetts,441310,null,Automotive parts and accessories stores,2017,290,600,1029191,177999,44402,6181,10% to less than 20%,10% to less than 20%,40% to less than 50%
+0400000US25,null,Massachusetts,441320,null,Tire dealers,2017,137,302,556318,113032,26837,2814,Less than 10%,20% to less than 30%,30% to less than 40%
+0400000US25,null,Massachusetts,442110,null,Furniture stores,2017,238,425,1493396,170030,39283,3732,Less than 10%,Less than 10%,Less than 10%
+0400000US25,null,Massachusetts,442210,null,Floor covering stores,2017,202,231,350063,56916,14290,1216,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US25,null,Massachusetts,442291,null,Window treatment stores,2017,46,65,69149,11023,2465,346,50% to less than 60%,40% to less than 50%,50% to less than 60%
+0400000US25,null,Massachusetts,442299,null,All other home furnishings stores,2017,261,404,981321,114580,26289,5805,40% to less than 50%,50% to less than 60%,70% to less than 80%
+0400000US25,null,Massachusetts,443141,null,Household appliance stores,2017,134,153,465556,58938,14381,1314,Less than 10%,10% to less than 20%,10% to less than 20%
+0400000US25,null,Massachusetts,443142,null,Electronics stores,2017,290,468,1732338,217929,48579,6475,Less than 10%,30% to less than 40%,20% to less than 30%
+0400000US25,null,Massachusetts,444110,null,Home centers,2017,35,110,3365155,347528,83711,12510,Less than 10%,Less than 10%,Less than 10%
+0400000US25,null,Massachusetts,444120,null,Paint and wallpaper stores,2017,63,149,203727,29146,7328,836,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US25,null,Massachusetts,444130,null,Hardware stores,2017,188,302,512781,84652,19827,3052,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US25,null,Massachusetts,444190,null,Other building material dealers,2017,609,746,3247106,472383,113596,8279,20% to less than 30%,10% to less than 20%,10% to less than 20%
+0400000US25,null,Massachusetts,444210,null,Outdoor power equipment stores,2017,71,72,128442,18335,4306,525,Less than 10%,Less than 10%,Less than 10%
+0400000US25,null,Massachusetts,444220,null,"Nursery, garden center, and farm supply stores",2017,221,249,482262,78338,13568,2201,Less than 10%,Less than 10%,20% to less than 30%
+0400000US25,null,Massachusetts,445110,null,Supermarkets and other grocery (except convenience) stores,2017,886,1386,16860750,1970689,494367,78599,Less than 10%,20% to less than 30%,30% to less than 40%
+0400000US25,null,Massachusetts,445120,null,Convenience stores,2017,1449,1661,1244982,121754,30652,6581,10% to less than 20%,Less than 10%,10% to less than 20%
+0400000US25,null,Massachusetts,445210,null,Meat markets,2017,90,95,190425,26098,5674,920,Less than 10%,Less than 10%,10% to less than 20%
+0400000US25,null,Massachusetts,445220,null,Fish and seafood markets,2017,99,102,198173,22041,4817,732,10% to less than 20%,Less than 10%,10% to less than 20%
+0400000US25,null,Massachusetts,445230,null,Fruit and vegetable markets,2017,61,64,160685,30563,6353,979,Less than 10%,Less than 10%,Less than 10%
+0400000US25,null,Massachusetts,445291,null,Baked goods stores,2017,75,84,41401,10150,2378,505,20% to less than 30%,10% to less than 20%,10% to less than 20%
+0400000US25,null,Massachusetts,445292,null,Confectionery and nut stores,2017,62,82,40883,7445,1634,485,40% to less than 50%,30% to less than 40%,20% to less than 30%
+0400000US25,null,Massachusetts,445299,null,All other specialty food stores,2017,112,135,97379,20162,4599,961,Less than 10%,10% to less than 20%,20% to less than 30%
+0400000US25,null,Massachusetts,445310,null,"Beer, wine, and liquor stores",2017,1359,1439,2671415,235991,57662,9027,Less than 10%,Less than 10%,Less than 10%
+0400000US25,null,Massachusetts,446110,null,Pharmacies and drug stores,2017,189,974,7701478,666704,172623,21235,Less than 10%,40% to less than 50%,Less than 10%
+0400000US25,null,Massachusetts,446120,null,"Cosmetics, beauty supplies, and perfume stores",2017,105,299,413457,60684,15295,3134,Less than 10%,Less than 10%,Less than 10%
+0400000US25,null,Massachusetts,446130,null,Optical goods stores,2017,138,311,261671,58704,13705,1941,10% to less than 20%,40% to less than 50%,50% to less than 60%
+0400000US25,null,Massachusetts,446191,null,Food (health) supplement stores,2017,62,174,125803,18409,4409,722,Less than 10%,Less than 10%,10% to less than 20%
+0400000US25,null,Massachusetts,446199,null,All other health and personal care stores,2017,113,169,234191,51862,12413,1214,10% to less than 20%,10% to less than 20%,20% to less than 30%
+0400000US25,null,Massachusetts,447110,null,Gasoline stations with convenience stores,2017,749,1419,5895931,230503,54295,9802,20% to less than 30%,10% to less than 20%,20% to less than 30%
+0400000US25,null,Massachusetts,447190,null,Other gasoline stations,2017,539,639,1769474,91612,22428,3277,20% to less than 30%,Less than 10%,10% to less than 20%
+0400000US25,null,Massachusetts,448110,null,Men's clothing stores,2017,99,180,252243,43710,9836,1440,20% to less than 30%,20% to less than 30%,20% to less than 30%
+0400000US25,null,Massachusetts,448120,null,Women's clothing stores,2017,327,727,1053729,164917,38681,8636,30% to less than 40%,40% to less than 50%,40% to less than 50%
+0400000US25,null,Massachusetts,448130,null,Children's and infants' clothing stores,2017,62,187,216994,33550,7801,2141,Less than 10%,20% to less than 30%,20% to less than 30%
+0400000US25,null,Massachusetts,448140,null,Family clothing stores,2017,200,715,2909122,339920,79309,20793,10% to less than 20%,40% to less than 50%,50% to less than 60%
+0400000US25,null,Massachusetts,448150,null,Clothing accessories stores,2017,81,190,236465,30309,7430,1517,40% to less than 50%,30% to less than 40%,20% to less than 30%
+0400000US25,null,Massachusetts,448190,null,Other clothing stores,2017,159,253,483726,64049,15135,3186,20% to less than 30%,10% to less than 20%,20% to less than 30%
+0400000US25,null,Massachusetts,448210,null,Shoe stores,2017,139,527,831402,107121,25357,5909,30% to less than 40%,30% to less than 40%,40% to less than 50%
+0400000US25,null,Massachusetts,448310,null,Jewelry stores,2017,443,568,751112,100795,25829,3016,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US25,null,Massachusetts,448320,null,Luggage and leather goods stores,2017,19,31,60972,5843,1403,135,10% to less than 20%,10% to less than 20%,20% to less than 30%
+0400000US25,null,Massachusetts,451110,null,Sporting goods stores,2017,375,519,862762,112826,25454,5337,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US25,null,Massachusetts,451120,null,"Hobby, toy, and game stores",2017,132,218,406476,57096,13580,4249,Less than 10%,10% to less than 20%,10% to less than 20%
+0400000US25,null,Massachusetts,451130,null,"Sewing, needlework, and piece goods stores",2017,68,93,82338,13816,3161,839,Less than 10%,Less than 10%,Less than 10%
+0400000US25,null,Massachusetts,451140,null,Musical instrument and supplies stores,2017,61,75,108655,19127,4593,676,10% to less than 20%,Less than 10%,Less than 10%
+0400000US25,null,Massachusetts,451211,null,Book stores,2017,90,194,371064,48031,12415,2937,10% to less than 20%,40% to less than 50%,50% to less than 60%
+0400000US25,null,Massachusetts,451212,null,News dealers and newsstands,2017,21,30,10985,2311,476,85,10% to less than 20%,20% to less than 30%,10% to less than 20%
+0400000US25,null,Massachusetts,452210,null,Department stores,2017,6,71,1334705,226245,56850,9287,Less than 10%,10% to less than 20%,20% to less than 30%
+0400000US25,null,Massachusetts,452311,null,Warehouse clubs and supercenters,2017,5,135,6922120,664947,165982,24874,Less than 10%,20% to less than 30%,30% to less than 40%
+0400000US25,null,Massachusetts,452319,null,All other general merchandise stores,2017,184,529,1103343,138305,33112,7859,30% to less than 40%,30% to less than 40%,70% to less than 80%
+0400000US25,null,Massachusetts,453110,null,Florists,2017,320,327,138086,30175,7037,1453,10% to less than 20%,Less than 10%,Less than 10%
+0400000US25,null,Massachusetts,453210,null,Office supplies and stationery stores,2017,42,114,341274,45586,10995,2313,Less than 10%,Less than 10%,Less than 10%
+0400000US25,null,Massachusetts,453220,null,"Gift, novelty, and souvenir stores",2017,432,609,457611,76296,16394,4452,10% to less than 20%,10% to less than 20%,20% to less than 30%
+0400000US25,null,Massachusetts,453310,null,Used merchandise stores,2017,289,366,297608,69986,16952,3230,10% to less than 20%,10% to less than 20%,20% to less than 30%
+0400000US25,null,Massachusetts,453910,null,Pet and pet supplies stores,2017,122,235,419538,67928,17487,2802,Less than 10%,Less than 10%,Less than 10%
+0400000US25,null,Massachusetts,453920,null,Art dealers,2017,150,155,91828,15013,3076,339,10% to less than 20%,Less than 10%,Less than 10%
+0400000US25,null,Massachusetts,453991,null,Tobacco stores,2017,216,228,156330,18480,4062,906,Less than 10%,Less than 10%,Less than 10%
+0400000US25,null,Massachusetts,453998,null,All other miscellaneous store retailers (except tobacco stores),2017,D,D,D,D,D,"1,000 to 2,499 employees",D,D,D
+0400000US25,null,Massachusetts,454110,null,Electronic shopping and mail-order houses,2017,760,773,11450154,752805,189392,11320,10% to less than 20%,40% to less than 50%,30% to less than 40%
+0400000US25,null,Massachusetts,454210,null,Vending machine operators,2017,66,67,78564,13121,3353,383,Less than 10%,Less than 10%,Less than 10%
+0400000US25,null,Massachusetts,454310,null,Fuel dealers,2017,397,450,2038262,273549,71037,5084,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US25,null,Massachusetts,454390,null,Other direct selling establishments,2017,411,438,715914,129669,32586,2924,10% to less than 20%,Less than 10%,Less than 10%
