@@ -3,7 +3,7 @@ Team Members: Jeremy Najera & Maria Quinton
 
 Project Description/Outline:
 
-    Our project is to uncover trends in ecommerce business across the United States, specifically by state. We will examine relationships between ecommerce trends and state; ecommerce products and state; along with number of ecommerce establishments and state.
+    Our project is to uncover trends in ecommerce business across the United States, specifically by state. We will examine relationships between ecommerce trends and state; ecommerce products and ecommerce trends; along with number of ecommerce establishments and state.
 
 Research Questions to Answer:
 
