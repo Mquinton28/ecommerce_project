@@ -1,0 +1,165 @@
+GEO_ID,GEO_ID_F,NAME,NAICS2017,NAICS2017_F,NAICS2017_LABEL,YEAR,FIRM,ESTAB,RCPTOT,PAYANN,PAYQTR1,EMP,RCPTOT_IMP,PAYANN_IMP,EMP_IMP
+id,Geo Footnote,Geographic Area Name,2017 NAICS code,2017 NAICS Footnote,Meaning of NAICS code,Year,Number of firms,Number of establishments,"Sales, value of shipments, or revenue ($1,000)","Annual payroll ($1,000)","First-quarter payroll ($1,000)",Number of employees,"Range indicating percent of total sales, value of shipments, or revenue imputed",Range indicating percent of total annual payroll imputed,Range indicating percent of total employees imputed
+0400000US48,null,Texas,44-45,null,Retail trade,2017,46006,80874,417231877,36627756,8941236,1304540,Less than 10%,10% to less than 20%,10% to less than 20%
+0400000US48,null,Texas,441,null,Motor vehicle and parts dealers,2017,6571,10046,115601363,8757448,2106677,180137,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US48,null,Texas,442,null,Furniture and home furnishings stores,2017,2277,3861,10328437,1234128,290689,38371,10% to less than 20%,10% to less than 20%,20% to less than 30%
+0400000US48,null,Texas,443,null,Electronics and appliance stores,2017,1482,2509,8036829,759068,188163,28315,Less than 10%,20% to less than 30%,10% to less than 20%
+0400000US48,null,Texas,444,null,Building material and garden equipment and supplies dealers,2017,3125,5213,28228672,2921253,704807,100334,Less than 10%,Less than 10%,Less than 10%
+0400000US48,null,Texas,445,null,Food and beverage stores,2017,6886,9463,61419032,5649801,1434748,240159,Less than 10%,Less than 10%,Less than 10%
+0400000US48,null,Texas,446,null,Health and personal care stores,2017,3410,7068,24669646,2332876,585372,74872,Less than 10%,20% to less than 30%,10% to less than 20%
+0400000US48,null,Texas,447,null,Gasoline stations,2017,6560,11338,45700758,1930381,437149,84832,Less than 10%,30% to less than 40%,30% to less than 40%
+0400000US48,null,Texas,448,null,Clothing and clothing accessories stores,2017,4263,11820,22228462,2660728,632179,158496,10% to less than 20%,20% to less than 30%,30% to less than 40%
+0400000US48,null,Texas,451,null,"Sporting goods, hobby, musical instrument, and book stores",2017,1703,2802,7849136,862313,199446,43922,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US48,null,Texas,452,null,General merchandise stores,2017,502,4655,59811870,6037740,1539266,243799,Less than 10%,10% to less than 20%,10% to less than 20%
+0400000US48,null,Texas,453,null,Miscellaneous store retailers,2017,5251,7483,8122619,1219315,294510,57024,10% to less than 20%,Less than 10%,10% to less than 20%
+0400000US48,null,Texas,454,null,Nonstore retailers,2017,4236,4616,25235053,2262705,528230,54279,10% to less than 20%,20% to less than 30%,20% to less than 30%
+0400000US48,null,Texas,4411,null,Automobile dealers,2017,3450,4026,100661397,6786586,1629707,119641,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US48,null,Texas,4412,null,Other motor vehicle dealers,2017,799,935,6045247,525606,119420,12104,10% to less than 20%,Less than 10%,10% to less than 20%
+0400000US48,null,Texas,4413,null,"Automotive parts, accessories, and tire stores",2017,2331,5085,8894719,1445256,357550,48392,10% to less than 20%,30% to less than 40%,30% to less than 40%
+0400000US48,null,Texas,4421,null,Furniture stores,2017,1116,1984,5750103,728543,172674,18195,10% to less than 20%,Less than 10%,Less than 10%
+0400000US48,null,Texas,4422,null,Home furnishings stores,2017,1165,1877,4578334,505585,118015,20176,20% to less than 30%,20% to less than 30%,40% to less than 50%
+0400000US48,null,Texas,4431,null,Electronics and appliance stores,2017,1482,2509,8036829,759068,188163,28315,Less than 10%,20% to less than 30%,10% to less than 20%
+0400000US48,null,Texas,4441,null,Building material and supplies dealers,2017,2117,3889,24833402,2566899,619513,87218,Less than 10%,Less than 10%,Less than 10%
+0400000US48,null,Texas,4442,null,Lawn and garden equipment and supplies stores,2017,1011,1324,3395270,354354,85294,13116,Less than 10%,20% to less than 30%,20% to less than 30%
+0400000US48,null,Texas,4451,null,Grocery stores,2017,4542,6314,56997944,5272428,1341220,221584,Less than 10%,Less than 10%,Less than 10%
+0400000US48,null,Texas,4452,null,Specialty food stores,2017,962,1165,1139724,166090,41114,9017,10% to less than 20%,Less than 10%,20% to less than 30%
+0400000US48,null,Texas,4453,null,"Beer, wine, and liquor stores",2017,1389,1984,3281364,211283,52414,9558,Less than 10%,Less than 10%,Less than 10%
+0400000US48,null,Texas,4461,null,Health and personal care stores,2017,3410,7068,24669646,2332876,585372,74872,Less than 10%,20% to less than 30%,10% to less than 20%
+0400000US48,null,Texas,4471,null,Gasoline stations,2017,6560,11338,45700758,1930381,437149,84832,Less than 10%,30% to less than 40%,30% to less than 40%
+0400000US48,null,Texas,4481,null,Clothing stores,2017,2983,8311,16582127,2022164,464883,128744,10% to less than 20%,20% to less than 30%,30% to less than 40%
+0400000US48,null,Texas,4482,null,Shoe stores,2017,337,2074,3133453,329525,81277,20906,30% to less than 40%,30% to less than 40%,40% to less than 50%
+0400000US48,null,Texas,4483,null,"Jewelry, luggage, and leather goods stores",2017,961,1435,2512882,309039,86019,8846,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US48,null,Texas,4511,null,"Sporting goods, hobby, and musical instrument stores",2017,1536,2324,7074292,774109,175736,37970,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US48,null,Texas,4512,null,Book stores and news dealers,2017,167,478,774844,88204,23710,5952,Less than 10%,30% to less than 40%,40% to less than 50%
+0400000US48,null,Texas,4522,null,Department stores,2017,8,343,5870650,857853,220639,38774,Less than 10%,10% to less than 20%,10% to less than 20%
+0400000US48,null,Texas,4523,null,"General merchandise stores, including warehouse clubs and supercenters",2017,497,4312,53941220,5179887,1318627,205025,Less than 10%,Less than 10%,10% to less than 20%
+0400000US48,null,Texas,4531,null,Florists,2017,810,840,337049,75223,18951,3882,10% to less than 20%,Less than 10%,Less than 10%
+0400000US48,null,Texas,4532,null,"Office supplies, stationery, and gift stores",2017,1197,1949,2187139,294203,70231,16573,10% to less than 20%,Less than 10%,10% to less than 20%
+0400000US48,null,Texas,4533,null,Used merchandise stores,2017,947,1399,1363145,297287,73253,15764,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US48,null,Texas,4539,null,Other miscellaneous store retailers,2017,2304,3295,4235286,552602,132075,20805,10% to less than 20%,Less than 10%,Less than 10%
+0400000US48,null,Texas,4541,null,Electronic shopping and mail-order houses,2017,2409,2510,22065364,1774563,409310,41607,10% to less than 20%,30% to less than 40%,20% to less than 30%
+0400000US48,null,Texas,4542,null,Vending machine operators,2017,276,316,492248,83792,20503,2230,20% to less than 30%,40% to less than 50%,30% to less than 40%
+0400000US48,null,Texas,4543,null,Direct selling establishments,2017,1554,1790,2677441,404350,98417,10442,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US48,null,Texas,44111,null,New car dealers,2017,1250,1586,88486680,6058886,1454979,102962,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US48,null,Texas,44112,null,Used car dealers,2017,2229,2440,12174717,727700,174728,16679,20% to less than 30%,Less than 10%,10% to less than 20%
+0400000US48,null,Texas,44121,null,Recreational vehicle dealers,2017,183,223,2449509,178376,39779,3745,Less than 10%,Less than 10%,10% to less than 20%
+0400000US48,null,Texas,44122,null,"Motorcycle, boat, and other motor vehicle dealers",2017,617,712,3595738,347230,79641,8359,10% to less than 20%,Less than 10%,10% to less than 20%
+0400000US48,null,Texas,44131,null,Automotive parts and accessories stores,2017,1353,3333,5602759,838945,214561,32804,10% to less than 20%,10% to less than 20%,20% to less than 30%
+0400000US48,null,Texas,44132,null,Tire dealers,2017,980,1752,3291960,606311,142989,15588,Less than 10%,50% to less than 60%,50% to less than 60%
+0400000US48,null,Texas,44211,null,Furniture stores,2017,1116,1984,5750103,728543,172674,18195,10% to less than 20%,Less than 10%,Less than 10%
+0400000US48,null,Texas,44221,null,Floor covering stores,2017,582,731,1870444,225370,50931,5235,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US48,null,Texas,44229,null,Other home furnishings stores,2017,583,1146,2707890,280215,67084,14941,30% to less than 40%,40% to less than 50%,50% to less than 60%
+0400000US48,null,Texas,44314,null,Electronics and appliance stores,2017,1482,2509,8036829,759068,188163,28315,Less than 10%,20% to less than 30%,10% to less than 20%
+0400000US48,null,Texas,44411,null,Home centers,2017,90,450,14093284,1283518,306296,53791,Less than 10%,Less than 10%,Less than 10%
+0400000US48,null,Texas,44412,null,Paint and wallpaper stores,2017,85,533,1221784,98269,23360,2789,Less than 10%,Less than 10%,20% to less than 30%
+0400000US48,null,Texas,44413,null,Hardware stores,2017,534,971,1968990,276204,67816,10229,30% to less than 40%,20% to less than 30%,30% to less than 40%
+0400000US48,null,Texas,44419,null,Other building material dealers,2017,1417,1935,7549344,908908,222041,20409,10% to less than 20%,Less than 10%,Less than 10%
+0400000US48,null,Texas,44421,null,Outdoor power equipment stores,2017,194,206,453120,56826,12924,1585,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US48,null,Texas,44422,null,"Nursery, garden center, and farm supply stores",2017,819,1118,2942150,297528,72370,11531,Less than 10%,20% to less than 30%,30% to less than 40%
+0400000US48,null,Texas,44511,null,Supermarkets and other grocery (except convenience) stores,2017,1777,3513,54362889,5106608,1301757,212276,Less than 10%,Less than 10%,Less than 10%
+0400000US48,null,Texas,44512,null,Convenience stores,2017,2768,2801,2635055,165820,39463,9308,10% to less than 20%,Less than 10%,Less than 10%
+0400000US48,null,Texas,44521,null,Meat markets,2017,365,415,635729,85994,20684,3939,10% to less than 20%,Less than 10%,10% to less than 20%
+0400000US48,null,Texas,44522,null,Fish and seafood markets,2017,52,52,64165,5517,1430,264,10% to less than 20%,Less than 10%,Less than 10%
+0400000US48,null,Texas,44523,null,Fruit and vegetable markets,2017,69,72,110264,12014,2686,563,20% to less than 30%,Less than 10%,Less than 10%
+0400000US48,null,Texas,44529,null,Other specialty food stores,2017,477,626,329566,62565,16314,4251,20% to less than 30%,10% to less than 20%,20% to less than 30%
+0400000US48,null,Texas,44531,null,"Beer, wine, and liquor stores",2017,1389,1984,3281364,211283,52414,9558,Less than 10%,Less than 10%,Less than 10%
+0400000US48,null,Texas,44611,null,Pharmacies and drug stores,2017,1421,3095,20291751,1632076,413528,45232,Less than 10%,20% to less than 30%,Less than 10%
+0400000US48,null,Texas,44612,null,"Cosmetics, beauty supplies, and perfume stores",2017,678,1512,2108817,270268,67456,15175,Less than 10%,Less than 10%,Less than 10%
+0400000US48,null,Texas,44613,null,Optical goods stores,2017,292,934,818306,148068,35333,6053,Less than 10%,30% to less than 40%,40% to less than 50%
+0400000US48,null,Texas,44619,null,Other health and personal care stores,2017,1027,1527,1450772,282464,69055,8412,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US48,null,Texas,44711,null,Gasoline stations with convenience stores,2017,6014,9950,35555938,1614005,365579,72035,Less than 10%,30% to less than 40%,30% to less than 40%
+0400000US48,null,Texas,44719,null,Other gasoline stations,2017,589,1388,10144820,316376,71570,12797,Less than 10%,20% to less than 30%,10% to less than 20%
+0400000US48,null,Texas,44811,null,Men's clothing stores,2017,211,481,710395,114527,27394,4320,20% to less than 30%,10% to less than 20%,20% to less than 30%
+0400000US48,null,Texas,44812,null,Women's clothing stores,2017,1079,2776,2907228,412075,104210,29894,20% to less than 30%,30% to less than 40%,40% to less than 50%
+0400000US48,null,Texas,44813,null,Children's and infants' clothing stores,2017,183,633,657000,87986,20899,7046,Less than 10%,30% to less than 40%,20% to less than 30%
+0400000US48,null,Texas,44814,null,Family clothing stores,2017,672,2671,9842311,1073915,230597,69316,10% to less than 20%,20% to less than 30%,20% to less than 30%
+0400000US48,null,Texas,44815,null,Clothing accessories stores,2017,336,842,1135515,137391,34405,7772,30% to less than 40%,20% to less than 30%,20% to less than 30%
+0400000US48,null,Texas,44819,null,Other clothing stores,2017,560,908,1329678,196270,47378,10396,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US48,null,Texas,44821,null,Shoe stores,2017,337,2074,3133453,329525,81277,20906,30% to less than 40%,30% to less than 40%,40% to less than 50%
+0400000US48,null,Texas,44831,null,Jewelry stores,2017,937,1366,2262838,291759,81853,8413,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US48,null,Texas,44832,null,Luggage and leather goods stores,2017,24,69,250044,17280,4166,433,10% to less than 20%,10% to less than 20%,20% to less than 30%
+0400000US48,null,Texas,45111,null,Sporting goods stores,2017,884,1203,4727662,469327,105259,20404,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US48,null,Texas,45112,null,"Hobby, toy, and game stores",2017,302,638,1700353,208700,47696,12973,Less than 10%,Less than 10%,Less than 10%
+0400000US48,null,Texas,45113,null,"Sewing, needlework, and piece goods stores",2017,189,238,222774,29915,7259,2155,Less than 10%,Less than 10%,Less than 10%
+0400000US48,null,Texas,45114,null,Musical instrument and supplies stores,2017,161,245,423503,66167,15522,2438,Less than 10%,Less than 10%,Less than 10%
+0400000US48,null,Texas,45121,null,Book stores and news dealers,2017,167,478,774844,88204,23710,5952,Less than 10%,30% to less than 40%,40% to less than 50%
+0400000US48,null,Texas,45221,null,Department stores,2017,8,343,5870650,857853,220639,38774,Less than 10%,10% to less than 20%,10% to less than 20%
+0400000US48,null,Texas,45231,null,"General merchandise stores, including warehouse clubs and supercenters",2017,497,4312,53941220,5179887,1318627,205025,Less than 10%,Less than 10%,10% to less than 20%
+0400000US48,null,Texas,45311,null,Florists,2017,810,840,337049,75223,18951,3882,10% to less than 20%,Less than 10%,Less than 10%
+0400000US48,null,Texas,45321,null,Office supplies and stationery stores,2017,197,452,982524,105250,25184,5494,Less than 10%,Less than 10%,Less than 10%
+0400000US48,null,Texas,45322,null,"Gift, novelty, and souvenir stores",2017,1000,1497,1204615,188953,45047,11079,10% to less than 20%,10% to less than 20%,20% to less than 30%
+0400000US48,null,Texas,45331,null,Used merchandise stores,2017,947,1399,1363145,297287,73253,15764,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US48,null,Texas,45391,null,Pet and pet supplies stores,2017,281,678,1515033,204503,50307,9199,Less than 10%,Less than 10%,Less than 10%
+0400000US48,null,Texas,45392,null,Art dealers,2017,202,203,107667,15926,4003,509,10% to less than 20%,Less than 10%,Less than 10%
+0400000US48,null,Texas,45393,null,Manufactured (mobile) home dealers,2017,128,255,858934,75876,17712,1459,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US48,null,Texas,45399,null,All other miscellaneous store retailers,2017,1693,2159,1753652,256297,60053,9638,20% to less than 30%,Less than 10%,10% to less than 20%
+0400000US48,null,Texas,45411,null,Electronic shopping and mail-order houses,2017,2409,2510,22065364,1774563,409310,41607,10% to less than 20%,30% to less than 40%,20% to less than 30%
+0400000US48,null,Texas,45421,null,Vending machine operators,2017,276,316,492248,83792,20503,2230,20% to less than 30%,40% to less than 50%,30% to less than 40%
+0400000US48,null,Texas,45431,null,Fuel dealers,2017,231,338,815194,120930,29583,2601,30% to less than 40%,20% to less than 30%,20% to less than 30%
+0400000US48,null,Texas,45439,null,Other direct selling establishments,2017,1323,1452,1862247,283420,68834,7841,Less than 10%,Less than 10%,10% to less than 20%
+0400000US48,null,Texas,441110,null,New car dealers,2017,1250,1586,88486680,6058886,1454979,102962,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US48,null,Texas,441120,null,Used car dealers,2017,2229,2440,12174717,727700,174728,16679,20% to less than 30%,Less than 10%,10% to less than 20%
+0400000US48,null,Texas,441210,null,Recreational vehicle dealers,2017,183,223,2449509,178376,39779,3745,Less than 10%,Less than 10%,10% to less than 20%
+0400000US48,null,Texas,441222,null,Boat dealers,2017,168,207,1019701,97306,22761,2123,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US48,null,Texas,441228,null,"Motorcycle, ATV, and all other motor vehicle dealers",2017,450,505,2576037,249924,56880,6236,10% to less than 20%,Less than 10%,10% to less than 20%
+0400000US48,null,Texas,441310,null,Automotive parts and accessories stores,2017,1353,3333,5602759,838945,214561,32804,10% to less than 20%,10% to less than 20%,20% to less than 30%
+0400000US48,null,Texas,441320,null,Tire dealers,2017,980,1752,3291960,606311,142989,15588,Less than 10%,50% to less than 60%,50% to less than 60%
+0400000US48,null,Texas,442110,null,Furniture stores,2017,1116,1984,5750103,728543,172674,18195,10% to less than 20%,Less than 10%,Less than 10%
+0400000US48,null,Texas,442210,null,Floor covering stores,2017,582,731,1870444,225370,50931,5235,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US48,null,Texas,442291,null,Window treatment stores,2017,103,113,113455,19331,4307,452,20% to less than 30%,10% to less than 20%,20% to less than 30%
+0400000US48,null,Texas,442299,null,All other home furnishings stores,2017,481,1033,2594435,260884,62777,14489,30% to less than 40%,40% to less than 50%,50% to less than 60%
+0400000US48,null,Texas,443141,null,Household appliance stores,2017,337,478,1410602,143626,37107,3902,Less than 10%,Less than 10%,Less than 10%
+0400000US48,null,Texas,443142,null,Electronics stores,2017,1145,2031,6626227,615442,151056,24413,Less than 10%,20% to less than 30%,10% to less than 20%
+0400000US48,null,Texas,444110,null,Home centers,2017,90,450,14093284,1283518,306296,53791,Less than 10%,Less than 10%,Less than 10%
+0400000US48,null,Texas,444120,null,Paint and wallpaper stores,2017,85,533,1221784,98269,23360,2789,Less than 10%,Less than 10%,20% to less than 30%
+0400000US48,null,Texas,444130,null,Hardware stores,2017,534,971,1968990,276204,67816,10229,30% to less than 40%,20% to less than 30%,30% to less than 40%
+0400000US48,null,Texas,444190,null,Other building material dealers,2017,1417,1935,7549344,908908,222041,20409,10% to less than 20%,Less than 10%,Less than 10%
+0400000US48,null,Texas,444210,null,Outdoor power equipment stores,2017,194,206,453120,56826,12924,1585,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US48,null,Texas,444220,null,"Nursery, garden center, and farm supply stores",2017,819,1118,2942150,297528,72370,11531,Less than 10%,20% to less than 30%,30% to less than 40%
+0400000US48,null,Texas,445110,null,Supermarkets and other grocery (except convenience) stores,2017,1777,3513,54362889,5106608,1301757,212276,Less than 10%,Less than 10%,Less than 10%
+0400000US48,null,Texas,445120,null,Convenience stores,2017,2768,2801,2635055,165820,39463,9308,10% to less than 20%,Less than 10%,Less than 10%
+0400000US48,null,Texas,445210,null,Meat markets,2017,365,415,635729,85994,20684,3939,10% to less than 20%,Less than 10%,10% to less than 20%
+0400000US48,null,Texas,445220,null,Fish and seafood markets,2017,52,52,64165,5517,1430,264,10% to less than 20%,Less than 10%,Less than 10%
+0400000US48,null,Texas,445230,null,Fruit and vegetable markets,2017,69,72,110264,12014,2686,563,20% to less than 30%,Less than 10%,Less than 10%
+0400000US48,null,Texas,445291,null,Baked goods stores,2017,113,137,68291,13396,3492,764,30% to less than 40%,Less than 10%,Less than 10%
+0400000US48,null,Texas,445292,null,Confectionery and nut stores,2017,128,185,108596,19558,4940,1260,20% to less than 30%,20% to less than 30%,20% to less than 30%
+0400000US48,null,Texas,445299,null,All other specialty food stores,2017,236,304,152679,29611,7882,2227,20% to less than 30%,10% to less than 20%,30% to less than 40%
+0400000US48,null,Texas,445310,null,"Beer, wine, and liquor stores",2017,1389,1984,3281364,211283,52414,9558,Less than 10%,Less than 10%,Less than 10%
+0400000US48,null,Texas,446110,null,Pharmacies and drug stores,2017,1421,3095,20291751,1632076,413528,45232,Less than 10%,20% to less than 30%,Less than 10%
+0400000US48,null,Texas,446120,null,"Cosmetics, beauty supplies, and perfume stores",2017,678,1512,2108817,270268,67456,15175,Less than 10%,Less than 10%,Less than 10%
+0400000US48,null,Texas,446130,null,Optical goods stores,2017,292,934,818306,148068,35333,6053,Less than 10%,30% to less than 40%,40% to less than 50%
+0400000US48,null,Texas,446191,null,Food (health) supplement stores,2017,472,785,534572,81425,20125,3578,10% to less than 20%,Less than 10%,10% to less than 20%
+0400000US48,null,Texas,446199,null,All other health and personal care stores,2017,555,742,916200,201039,48930,4834,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US48,null,Texas,447110,null,Gasoline stations with convenience stores,2017,6014,9950,35555938,1614005,365579,72035,Less than 10%,30% to less than 40%,30% to less than 40%
+0400000US48,null,Texas,447190,null,Other gasoline stations,2017,589,1388,10144820,316376,71570,12797,Less than 10%,20% to less than 30%,10% to less than 20%
+0400000US48,null,Texas,448110,null,Men's clothing stores,2017,211,481,710395,114527,27394,4320,20% to less than 30%,10% to less than 20%,20% to less than 30%
+0400000US48,null,Texas,448120,null,Women's clothing stores,2017,1079,2776,2907228,412075,104210,29894,20% to less than 30%,30% to less than 40%,40% to less than 50%
+0400000US48,null,Texas,448130,null,Children's and infants' clothing stores,2017,183,633,657000,87986,20899,7046,Less than 10%,30% to less than 40%,20% to less than 30%
+0400000US48,null,Texas,448140,null,Family clothing stores,2017,672,2671,9842311,1073915,230597,69316,10% to less than 20%,20% to less than 30%,20% to less than 30%
+0400000US48,null,Texas,448150,null,Clothing accessories stores,2017,336,842,1135515,137391,34405,7772,30% to less than 40%,20% to less than 30%,20% to less than 30%
+0400000US48,null,Texas,448190,null,Other clothing stores,2017,560,908,1329678,196270,47378,10396,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US48,null,Texas,448210,null,Shoe stores,2017,337,2074,3133453,329525,81277,20906,30% to less than 40%,30% to less than 40%,40% to less than 50%
+0400000US48,null,Texas,448310,null,Jewelry stores,2017,937,1366,2262838,291759,81853,8413,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US48,null,Texas,448320,null,Luggage and leather goods stores,2017,24,69,250044,17280,4166,433,10% to less than 20%,10% to less than 20%,20% to less than 30%
+0400000US48,null,Texas,451110,null,Sporting goods stores,2017,884,1203,4727662,469327,105259,20404,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US48,null,Texas,451120,null,"Hobby, toy, and game stores",2017,302,638,1700353,208700,47696,12973,Less than 10%,Less than 10%,Less than 10%
+0400000US48,null,Texas,451130,null,"Sewing, needlework, and piece goods stores",2017,189,238,222774,29915,7259,2155,Less than 10%,Less than 10%,Less than 10%
+0400000US48,null,Texas,451140,null,Musical instrument and supplies stores,2017,161,245,423503,66167,15522,2438,Less than 10%,Less than 10%,Less than 10%
+0400000US48,null,Texas,451211,null,Book stores,2017,134,441,755258,84207,22723,5756,Less than 10%,30% to less than 40%,40% to less than 50%
+0400000US48,null,Texas,451212,null,News dealers and newsstands,2017,33,37,19586,3997,987,196,Less than 10%,Less than 10%,30% to less than 40%
+0400000US48,null,Texas,452210,null,Department stores,2017,8,343,5870650,857853,220639,38774,Less than 10%,10% to less than 20%,10% to less than 20%
+0400000US48,null,Texas,452311,null,Warehouse clubs and supercenters,2017,4,680,48191827,4647386,1185150,173172,Less than 10%,10% to less than 20%,10% to less than 20%
+0400000US48,null,Texas,452319,null,All other general merchandise stores,2017,493,3632,5749393,532501,133477,31853,Less than 10%,Less than 10%,40% to less than 50%
+0400000US48,null,Texas,453110,null,Florists,2017,810,840,337049,75223,18951,3882,10% to less than 20%,Less than 10%,Less than 10%
+0400000US48,null,Texas,453210,null,Office supplies and stationery stores,2017,197,452,982524,105250,25184,5494,Less than 10%,Less than 10%,Less than 10%
+0400000US48,null,Texas,453220,null,"Gift, novelty, and souvenir stores",2017,1000,1497,1204615,188953,45047,11079,10% to less than 20%,10% to less than 20%,20% to less than 30%
+0400000US48,null,Texas,453310,null,Used merchandise stores,2017,947,1399,1363145,297287,73253,15764,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US48,null,Texas,453910,null,Pet and pet supplies stores,2017,281,678,1515033,204503,50307,9199,Less than 10%,Less than 10%,Less than 10%
+0400000US48,null,Texas,453920,null,Art dealers,2017,202,203,107667,15926,4003,509,10% to less than 20%,Less than 10%,Less than 10%
+0400000US48,null,Texas,453930,null,Manufactured (mobile) home dealers,2017,128,255,858934,75876,17712,1459,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US48,null,Texas,453991,null,Tobacco stores,2017,490,587,482285,47635,11643,2333,30% to less than 40%,10% to less than 20%,10% to less than 20%
+0400000US48,null,Texas,453998,null,All other miscellaneous store retailers (except tobacco stores),2017,1208,1572,1271367,208662,48410,7305,10% to less than 20%,Less than 10%,Less than 10%
+0400000US48,null,Texas,454110,null,Electronic shopping and mail-order houses,2017,2409,2510,22065364,1774563,409310,41607,10% to less than 20%,30% to less than 40%,20% to less than 30%
+0400000US48,null,Texas,454210,null,Vending machine operators,2017,276,316,492248,83792,20503,2230,20% to less than 30%,40% to less than 50%,30% to less than 40%
+0400000US48,null,Texas,454310,null,Fuel dealers,2017,231,338,815194,120930,29583,2601,30% to less than 40%,20% to less than 30%,20% to less than 30%
+0400000US48,null,Texas,454390,null,Other direct selling establishments,2017,1323,1452,1862247,283420,68834,7841,Less than 10%,Less than 10%,10% to less than 20%

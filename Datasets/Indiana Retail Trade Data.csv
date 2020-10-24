@@ -1,0 +1,165 @@
+GEO_ID,GEO_ID_F,NAME,NAICS2017,NAICS2017_F,NAICS2017_LABEL,YEAR,FIRM,ESTAB,RCPTOT,PAYANN,PAYQTR1,EMP,RCPTOT_IMP,PAYANN_IMP,EMP_IMP
+id,Geo Footnote,Geographic Area Name,2017 NAICS code,2017 NAICS Footnote,Meaning of NAICS code,Year,Number of firms,Number of establishments,"Sales, value of shipments, or revenue ($1,000)","Annual payroll ($1,000)","First-quarter payroll ($1,000)",Number of employees,"Range indicating percent of total sales, value of shipments, or revenue imputed",Range indicating percent of total annual payroll imputed,Range indicating percent of total employees imputed
+0400000US18,null,Indiana,44-45,null,Retail trade,2017,12047,21327,102106020,8660066,2121834,336615,Less than 10%,10% to less than 20%,10% to less than 20%
+0400000US18,null,Indiana,441,null,Motor vehicle and parts dealers,2017,2004,2818,23316901,1815912,432882,43510,Less than 10%,10% to less than 20%,10% to less than 20%
+0400000US18,null,Indiana,442,null,Furniture and home furnishings stores,2017,719,996,1895350,244150,59599,8449,20% to less than 30%,10% to less than 20%,20% to less than 30%
+0400000US18,null,Indiana,443,null,Electronics and appliance stores,2017,403,618,1485385,159721,38660,6337,Less than 10%,10% to less than 20%,10% to less than 20%
+0400000US18,null,Indiana,444,null,Building material and garden equipment and supplies dealers,2017,1153,1783,8856566,941172,233190,31961,Less than 10%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,445,null,Food and beverage stores,2017,1424,2447,11981617,1029835,274732,52350,10% to less than 20%,10% to less than 20%,20% to less than 30%
+0400000US18,null,Indiana,446,null,Health and personal care stores,2017,575,1739,6588523,612187,157005,21487,Less than 10%,30% to less than 40%,10% to less than 20%
+0400000US18,null,Indiana,447,null,Gasoline stations,2017,1367,2708,12277960,426748,102966,22974,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US18,null,Indiana,448,null,Clothing and clothing accessories stores,2017,891,2277,3296284,416308,102711,26526,10% to less than 20%,20% to less than 30%,30% to less than 40%
+0400000US18,null,Indiana,451,null,"Sporting goods, hobby, musical instrument, and book stores",2017,664,946,1625951,193698,44154,10662,10% to less than 20%,20% to less than 30%,20% to less than 30%
+0400000US18,null,Indiana,452,null,General merchandise stores,2017,118,1340,16899199,1575913,389360,70245,Less than 10%,10% to less than 20%,10% to less than 20%
+0400000US18,null,Indiana,453,null,Miscellaneous store retailers,2017,1650,2294,2119089,324140,78845,18137,10% to less than 20%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,454,null,Nonstore retailers,2017,1208,1361,11763195,920282,207730,23977,Less than 10%,10% to less than 20%,10% to less than 20%
+0400000US18,null,Indiana,4411,null,Automobile dealers,2017,1065,1243,19879273,1331314,315995,27776,Less than 10%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,4412,null,Other motor vehicle dealers,2017,300,318,1396912,132570,28083,3338,Less than 10%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,4413,null,"Automotive parts, accessories, and tire stores",2017,644,1257,2040716,352028,88804,12396,Less than 10%,10% to less than 20%,20% to less than 30%
+0400000US18,null,Indiana,4421,null,Furniture stores,2017,309,476,926389,127516,31979,4041,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US18,null,Indiana,4422,null,Home furnishings stores,2017,412,520,968961,116634,27620,4408,20% to less than 30%,20% to less than 30%,40% to less than 50%
+0400000US18,null,Indiana,4431,null,Electronics and appliance stores,2017,403,618,1485385,159721,38660,6337,Less than 10%,10% to less than 20%,10% to less than 20%
+0400000US18,null,Indiana,4441,null,Building material and supplies dealers,2017,766,1261,7212612,802140,203247,26964,Less than 10%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,4442,null,Lawn and garden equipment and supplies stores,2017,389,522,1643954,139032,29943,4997,20% to less than 30%,20% to less than 30%,20% to less than 30%
+0400000US18,null,Indiana,4451,null,Grocery stores,2017,688,1248,10722269,907252,245932,44924,10% to less than 20%,10% to less than 20%,20% to less than 30%
+0400000US18,null,Indiana,4452,null,Specialty food stores,2017,284,346,223286,40412,9395,2600,20% to less than 30%,10% to less than 20%,20% to less than 30%
+0400000US18,null,Indiana,4453,null,"Beer, wine, and liquor stores",2017,454,853,1036062,82171,19405,4826,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US18,null,Indiana,4461,null,Health and personal care stores,2017,575,1739,6588523,612187,157005,21487,Less than 10%,30% to less than 40%,10% to less than 20%
+0400000US18,null,Indiana,4471,null,Gasoline stations,2017,1367,2708,12277960,426748,102966,22974,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US18,null,Indiana,4481,null,Clothing stores,2017,552,1481,2250228,278668,66643,19961,10% to less than 20%,20% to less than 30%,30% to less than 40%
+0400000US18,null,Indiana,4482,null,Shoe stores,2017,108,456,549966,59163,14907,4197,10% to less than 20%,20% to less than 30%,30% to less than 40%
+0400000US18,null,Indiana,4483,null,"Jewelry, luggage, and leather goods stores",2017,236,340,496090,78477,21161,2368,Less than 10%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,4511,null,"Sporting goods, hobby, and musical instrument stores",2017,603,778,1363674,164186,36400,8463,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US18,null,Indiana,4512,null,Book stores and news dealers,2017,62,168,262277,29512,7754,2199,10% to less than 20%,50% to less than 60%,60% to less than 70%
+0400000US18,null,Indiana,4522,null,Department stores,2017,8,108,1297169,158424,39865,9859,Less than 10%,20% to less than 30%,20% to less than 30%
+0400000US18,null,Indiana,4523,null,"General merchandise stores, including warehouse clubs and supercenters",2017,111,1232,15602030,1417489,349495,60386,Less than 10%,10% to less than 20%,10% to less than 20%
+0400000US18,null,Indiana,4531,null,Florists,2017,288,303,101017,24478,5957,1648,10% to less than 20%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,4532,null,"Office supplies, stationery, and gift stores",2017,289,420,400072,55769,13479,3556,Less than 10%,Less than 10%,10% to less than 20%
+0400000US18,null,Indiana,4533,null,Used merchandise stores,2017,385,564,372101,94030,23493,6423,10% to less than 20%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,4539,null,Other miscellaneous store retailers,2017,694,1007,1245899,149863,35916,6510,10% to less than 20%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,4541,null,Electronic shopping and mail-order houses,2017,587,602,10435053,731105,160841,18756,Less than 10%,10% to less than 20%,10% to less than 20%
+0400000US18,null,Indiana,4542,null,Vending machine operators,2017,84,96,251781,48247,11799,1546,Less than 10%,10% to less than 20%,10% to less than 20%
+0400000US18,null,Indiana,4543,null,Direct selling establishments,2017,538,663,1076361,140930,35090,3675,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US18,null,Indiana,44111,null,New car dealers,2017,433,492,17381888,1171946,276335,23715,Less than 10%,Less than 10%,10% to less than 20%
+0400000US18,null,Indiana,44112,null,Used car dealers,2017,641,751,2497385,159368,39660,4061,10% to less than 20%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,44121,null,Recreational vehicle dealers,2017,69,71,536874,46330,9522,1065,Less than 10%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,44122,null,"Motorcycle, boat, and other motor vehicle dealers",2017,231,247,860038,86240,18561,2273,Less than 10%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,44131,null,Automotive parts and accessories stores,2017,404,876,1250685,198384,51654,8394,Less than 10%,Less than 10%,20% to less than 30%
+0400000US18,null,Indiana,44132,null,Tire dealers,2017,240,381,790031,153644,37150,4002,10% to less than 20%,30% to less than 40%,30% to less than 40%
+0400000US18,null,Indiana,44211,null,Furniture stores,2017,309,476,926389,127516,31979,4041,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US18,null,Indiana,44221,null,Floor covering stores,2017,235,260,548925,70301,17022,1741,10% to less than 20%,10% to less than 20%,20% to less than 30%
+0400000US18,null,Indiana,44229,null,Other home furnishings stores,2017,177,260,420036,46333,10598,2667,40% to less than 50%,40% to less than 50%,50% to less than 60%
+0400000US18,null,Indiana,44314,null,Electronics and appliance stores,2017,403,618,1485385,159721,38660,6337,Less than 10%,10% to less than 20%,10% to less than 20%
+0400000US18,null,Indiana,44411,null,Home centers,2017,28,130,4066152,398631,105320,15783,Less than 10%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,44412,null,Paint and wallpaper stores,2017,26,147,222577,22248,5152,741,Less than 10%,Less than 10%,10% to less than 20%
+0400000US18,null,Indiana,44413,null,Hardware stores,2017,234,371,516565,77899,18621,3517,10% to less than 20%,Less than 10%,10% to less than 20%
+0400000US18,null,Indiana,44419,null,Other building material dealers,2017,481,613,2407318,303362,74154,6923,10% to less than 20%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,44421,null,Outdoor power equipment stores,2017,156,180,431688,45987,10511,1338,20% to less than 30%,10% to less than 20%,10% to less than 20%
+0400000US18,null,Indiana,44422,null,"Nursery, garden center, and farm supply stores",2017,233,342,1212266,93045,19432,3659,20% to less than 30%,20% to less than 30%,20% to less than 30%
+0400000US18,null,Indiana,44511,null,Supermarkets and other grocery (except convenience) stores,2017,510,1031,10498513,889309,241724,43796,10% to less than 20%,10% to less than 20%,20% to less than 30%
+0400000US18,null,Indiana,44512,null,Convenience stores,2017,180,217,223756,17943,4208,1128,40% to less than 50%,30% to less than 40%,20% to less than 30%
+0400000US18,null,Indiana,44521,null,Meat markets,2017,91,99,92999,18015,4184,897,Less than 10%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,44522,null,Fish and seafood markets,2017,D,D,D,D,D,20 to 99 employees,D,D,D
+0400000US18,null,Indiana,44523,null,Fruit and vegetable markets,2017,D,D,D,D,D,250 to 499 employees,D,D,D
+0400000US18,null,Indiana,44529,null,Other specialty food stores,2017,147,200,94160,17831,4308,1412,30% to less than 40%,30% to less than 40%,30% to less than 40%
+0400000US18,null,Indiana,44531,null,"Beer, wine, and liquor stores",2017,454,853,1036062,82171,19405,4826,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US18,null,Indiana,44611,null,Pharmacies and drug stores,2017,164,836,5764149,464202,120542,15024,Less than 10%,30% to less than 40%,10% to less than 20%
+0400000US18,null,Indiana,44612,null,"Cosmetics, beauty supplies, and perfume stores",2017,111,251,338344,45058,11002,2737,Less than 10%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,44613,null,Optical goods stores,2017,62,220,186557,38333,9384,1628,Less than 10%,20% to less than 30%,30% to less than 40%
+0400000US18,null,Indiana,44619,null,Other health and personal care stores,2017,242,432,299473,64594,16077,2098,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US18,null,Indiana,44711,null,Gasoline stations with convenience stores,2017,1256,2432,9153405,335055,81128,18554,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US18,null,Indiana,44719,null,Other gasoline stations,2017,131,276,3124555,91693,21838,4420,Less than 10%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,44811,null,Men's clothing stores,2017,61,98,100406,16115,4058,694,Less than 10%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,44812,null,Women's clothing stores,2017,197,548,452342,67155,16428,5350,20% to less than 30%,20% to less than 30%,30% to less than 40%
+0400000US18,null,Indiana,44813,null,Children's and infants' clothing stores,2017,33,121,124081,17061,4069,1326,Less than 10%,20% to less than 30%,20% to less than 30%
+0400000US18,null,Indiana,44814,null,Family clothing stores,2017,106,411,1212064,128908,29991,9478,10% to less than 20%,30% to less than 40%,30% to less than 40%
+0400000US18,null,Indiana,44815,null,Clothing accessories stores,2017,43,121,102610,12924,3143,972,60% to less than 70%,20% to less than 30%,20% to less than 30%
+0400000US18,null,Indiana,44819,null,Other clothing stores,2017,129,182,258725,36505,8954,2141,20% to less than 30%,10% to less than 20%,10% to less than 20%
+0400000US18,null,Indiana,44821,null,Shoe stores,2017,108,456,549966,59163,14907,4197,10% to less than 20%,20% to less than 30%,30% to less than 40%
+0400000US18,null,Indiana,44831,null,Jewelry stores,2017,230,333,483636,77376,20890,2335,Less than 10%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,44832,null,Luggage and leather goods stores,2017,6,7,12454,1101,271,33,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US18,null,Indiana,45111,null,Sporting goods stores,2017,364,435,859016,96079,20752,4416,20% to less than 30%,20% to less than 30%,20% to less than 30%
+0400000US18,null,Indiana,45112,null,"Hobby, toy, and game stores",2017,118,187,337916,42053,9760,2631,Less than 10%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,45113,null,"Sewing, needlework, and piece goods stores",2017,64,91,85161,10634,2412,886,Less than 10%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,45114,null,Musical instrument and supplies stores,2017,57,65,81581,15420,3476,530,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US18,null,Indiana,45121,null,Book stores and news dealers,2017,62,168,262277,29512,7754,2199,10% to less than 20%,50% to less than 60%,60% to less than 70%
+0400000US18,null,Indiana,45221,null,Department stores,2017,8,108,1297169,158424,39865,9859,Less than 10%,20% to less than 30%,20% to less than 30%
+0400000US18,null,Indiana,45231,null,"General merchandise stores, including warehouse clubs and supercenters",2017,111,1232,15602030,1417489,349495,60386,Less than 10%,10% to less than 20%,10% to less than 20%
+0400000US18,null,Indiana,45311,null,Florists,2017,288,303,101017,24478,5957,1648,10% to less than 20%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,45321,null,Office supplies and stationery stores,2017,42,91,195405,23346,5848,1197,Less than 10%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,45322,null,"Gift, novelty, and souvenir stores",2017,247,329,204667,32423,7631,2359,10% to less than 20%,Less than 10%,20% to less than 30%
+0400000US18,null,Indiana,45331,null,Used merchandise stores,2017,385,564,372101,94030,23493,6423,10% to less than 20%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,45391,null,Pet and pet supplies stores,2017,95,184,347424,47960,13075,2466,10% to less than 20%,10% to less than 20%,Less than 10%
+0400000US18,null,Indiana,45392,null,Art dealers,2017,27,27,11821,2079,475,73,20% to less than 30%,Less than 10%,10% to less than 20%
+0400000US18,null,Indiana,45393,null,Manufactured (mobile) home dealers,2017,33,40,89308,8116,1778,195,Less than 10%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,45399,null,All other miscellaneous store retailers,2017,539,756,797346,91708,20588,3776,10% to less than 20%,Less than 10%,10% to less than 20%
+0400000US18,null,Indiana,45411,null,Electronic shopping and mail-order houses,2017,587,602,10435053,731105,160841,18756,Less than 10%,10% to less than 20%,10% to less than 20%
+0400000US18,null,Indiana,45421,null,Vending machine operators,2017,84,96,251781,48247,11799,1546,Less than 10%,10% to less than 20%,10% to less than 20%
+0400000US18,null,Indiana,45431,null,Fuel dealers,2017,85,169,463939,50795,12118,1198,10% to less than 20%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,45439,null,Other direct selling establishments,2017,453,494,612422,90135,22972,2477,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US18,null,Indiana,441110,null,New car dealers,2017,433,492,17381888,1171946,276335,23715,Less than 10%,Less than 10%,10% to less than 20%
+0400000US18,null,Indiana,441120,null,Used car dealers,2017,641,751,2497385,159368,39660,4061,10% to less than 20%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,441210,null,Recreational vehicle dealers,2017,69,71,536874,46330,9522,1065,Less than 10%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,441222,null,Boat dealers,2017,70,73,231047,25477,5231,673,Less than 10%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,441228,null,"Motorcycle, ATV, and all other motor vehicle dealers",2017,161,174,628991,60763,13330,1600,Less than 10%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,441310,null,Automotive parts and accessories stores,2017,404,876,1250685,198384,51654,8394,Less than 10%,Less than 10%,20% to less than 30%
+0400000US18,null,Indiana,441320,null,Tire dealers,2017,240,381,790031,153644,37150,4002,10% to less than 20%,30% to less than 40%,30% to less than 40%
+0400000US18,null,Indiana,442110,null,Furniture stores,2017,309,476,926389,127516,31979,4041,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US18,null,Indiana,442210,null,Floor covering stores,2017,235,260,548925,70301,17022,1741,10% to less than 20%,10% to less than 20%,20% to less than 30%
+0400000US18,null,Indiana,442291,null,Window treatment stores,2017,22,23,13909,2020,425,65,Less than 10%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,442299,null,All other home furnishings stores,2017,155,237,406127,44313,10173,2602,40% to less than 50%,40% to less than 50%,50% to less than 60%
+0400000US18,null,Indiana,443141,null,Household appliance stores,2017,145,185,265579,40532,11420,1491,Less than 10%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,443142,null,Electronics stores,2017,259,433,1219806,119189,27240,4846,Less than 10%,20% to less than 30%,10% to less than 20%
+0400000US18,null,Indiana,444110,null,Home centers,2017,28,130,4066152,398631,105320,15783,Less than 10%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,444120,null,Paint and wallpaper stores,2017,26,147,222577,22248,5152,741,Less than 10%,Less than 10%,10% to less than 20%
+0400000US18,null,Indiana,444130,null,Hardware stores,2017,234,371,516565,77899,18621,3517,10% to less than 20%,Less than 10%,10% to less than 20%
+0400000US18,null,Indiana,444190,null,Other building material dealers,2017,481,613,2407318,303362,74154,6923,10% to less than 20%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,444210,null,Outdoor power equipment stores,2017,156,180,431688,45987,10511,1338,20% to less than 30%,10% to less than 20%,10% to less than 20%
+0400000US18,null,Indiana,444220,null,"Nursery, garden center, and farm supply stores",2017,233,342,1212266,93045,19432,3659,20% to less than 30%,20% to less than 30%,20% to less than 30%
+0400000US18,null,Indiana,445110,null,Supermarkets and other grocery (except convenience) stores,2017,510,1031,10498513,889309,241724,43796,10% to less than 20%,10% to less than 20%,20% to less than 30%
+0400000US18,null,Indiana,445120,null,Convenience stores,2017,180,217,223756,17943,4208,1128,40% to less than 50%,30% to less than 40%,20% to less than 30%
+0400000US18,null,Indiana,445210,null,Meat markets,2017,91,99,92999,18015,4184,897,Less than 10%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,445220,null,Fish and seafood markets,2017,D,D,D,D,D,20 to 99 employees,D,D,D
+0400000US18,null,Indiana,445230,null,Fruit and vegetable markets,2017,D,D,D,D,D,250 to 499 employees,D,D,D
+0400000US18,null,Indiana,445291,null,Baked goods stores,2017,38,60,31489,6968,1681,340,50% to less than 60%,40% to less than 50%,30% to less than 40%
+0400000US18,null,Indiana,445292,null,Confectionery and nut stores,2017,39,55,20276,3613,853,322,40% to less than 50%,20% to less than 30%,30% to less than 40%
+0400000US18,null,Indiana,445299,null,All other specialty food stores,2017,70,85,42395,7250,1774,750,20% to less than 30%,20% to less than 30%,30% to less than 40%
+0400000US18,null,Indiana,445310,null,"Beer, wine, and liquor stores",2017,454,853,1036062,82171,19405,4826,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US18,null,Indiana,446110,null,Pharmacies and drug stores,2017,164,836,5764149,464202,120542,15024,Less than 10%,30% to less than 40%,10% to less than 20%
+0400000US18,null,Indiana,446120,null,"Cosmetics, beauty supplies, and perfume stores",2017,111,251,338344,45058,11002,2737,Less than 10%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,446130,null,Optical goods stores,2017,62,220,186557,38333,9384,1628,Less than 10%,20% to less than 30%,30% to less than 40%
+0400000US18,null,Indiana,446191,null,Food (health) supplement stores,2017,107,199,98740,14865,3628,802,Less than 10%,Less than 10%,10% to less than 20%
+0400000US18,null,Indiana,446199,null,All other health and personal care stores,2017,135,233,200733,49729,12449,1296,20% to less than 30%,10% to less than 20%,20% to less than 30%
+0400000US18,null,Indiana,447110,null,Gasoline stations with convenience stores,2017,1256,2432,9153405,335055,81128,18554,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US18,null,Indiana,447190,null,Other gasoline stations,2017,131,276,3124555,91693,21838,4420,Less than 10%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,448110,null,Men's clothing stores,2017,61,98,100406,16115,4058,694,Less than 10%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,448120,null,Women's clothing stores,2017,197,548,452342,67155,16428,5350,20% to less than 30%,20% to less than 30%,30% to less than 40%
+0400000US18,null,Indiana,448130,null,Children's and infants' clothing stores,2017,33,121,124081,17061,4069,1326,Less than 10%,20% to less than 30%,20% to less than 30%
+0400000US18,null,Indiana,448140,null,Family clothing stores,2017,106,411,1212064,128908,29991,9478,10% to less than 20%,30% to less than 40%,30% to less than 40%
+0400000US18,null,Indiana,448150,null,Clothing accessories stores,2017,43,121,102610,12924,3143,972,60% to less than 70%,20% to less than 30%,20% to less than 30%
+0400000US18,null,Indiana,448190,null,Other clothing stores,2017,129,182,258725,36505,8954,2141,20% to less than 30%,10% to less than 20%,10% to less than 20%
+0400000US18,null,Indiana,448210,null,Shoe stores,2017,108,456,549966,59163,14907,4197,10% to less than 20%,20% to less than 30%,30% to less than 40%
+0400000US18,null,Indiana,448310,null,Jewelry stores,2017,230,333,483636,77376,20890,2335,Less than 10%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,448320,null,Luggage and leather goods stores,2017,6,7,12454,1101,271,33,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US18,null,Indiana,451110,null,Sporting goods stores,2017,364,435,859016,96079,20752,4416,20% to less than 30%,20% to less than 30%,20% to less than 30%
+0400000US18,null,Indiana,451120,null,"Hobby, toy, and game stores",2017,118,187,337916,42053,9760,2631,Less than 10%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,451130,null,"Sewing, needlework, and piece goods stores",2017,64,91,85161,10634,2412,886,Less than 10%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,451140,null,Musical instrument and supplies stores,2017,57,65,81581,15420,3476,530,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US18,null,Indiana,451211,null,Book stores,2017,52,155,258256,28946,7614,2170,10% to less than 20%,50% to less than 60%,60% to less than 70%
+0400000US18,null,Indiana,451212,null,News dealers and newsstands,2017,10,13,4021,566,140,29,Less than 10%,Less than 10%,10% to less than 20%
+0400000US18,null,Indiana,452210,null,Department stores,2017,8,108,1297169,158424,39865,9859,Less than 10%,20% to less than 30%,20% to less than 30%
+0400000US18,null,Indiana,452311,null,Warehouse clubs and supercenters,2017,5,228,13613823,1251117,307479,50159,Less than 10%,10% to less than 20%,10% to less than 20%
+0400000US18,null,Indiana,452319,null,All other general merchandise stores,2017,107,1004,1988207,166372,42016,10227,Less than 10%,Less than 10%,30% to less than 40%
+0400000US18,null,Indiana,453110,null,Florists,2017,288,303,101017,24478,5957,1648,10% to less than 20%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,453210,null,Office supplies and stationery stores,2017,42,91,195405,23346,5848,1197,Less than 10%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,453220,null,"Gift, novelty, and souvenir stores",2017,247,329,204667,32423,7631,2359,10% to less than 20%,Less than 10%,20% to less than 30%
+0400000US18,null,Indiana,453310,null,Used merchandise stores,2017,385,564,372101,94030,23493,6423,10% to less than 20%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,453910,null,Pet and pet supplies stores,2017,95,184,347424,47960,13075,2466,10% to less than 20%,10% to less than 20%,Less than 10%
+0400000US18,null,Indiana,453920,null,Art dealers,2017,27,27,11821,2079,475,73,20% to less than 30%,Less than 10%,10% to less than 20%
+0400000US18,null,Indiana,453930,null,Manufactured (mobile) home dealers,2017,33,40,89308,8116,1778,195,Less than 10%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,453991,null,Tobacco stores,2017,176,321,356009,26927,6528,1538,Less than 10%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,453998,null,All other miscellaneous store retailers (except tobacco stores),2017,364,435,441337,64781,14060,2238,10% to less than 20%,Less than 10%,10% to less than 20%
+0400000US18,null,Indiana,454110,null,Electronic shopping and mail-order houses,2017,587,602,10435053,731105,160841,18756,Less than 10%,10% to less than 20%,10% to less than 20%
+0400000US18,null,Indiana,454210,null,Vending machine operators,2017,84,96,251781,48247,11799,1546,Less than 10%,10% to less than 20%,10% to less than 20%
+0400000US18,null,Indiana,454310,null,Fuel dealers,2017,85,169,463939,50795,12118,1198,10% to less than 20%,Less than 10%,Less than 10%
+0400000US18,null,Indiana,454390,null,Other direct selling establishments,2017,453,494,612422,90135,22972,2477,10% to less than 20%,10% to less than 20%,10% to less than 20%

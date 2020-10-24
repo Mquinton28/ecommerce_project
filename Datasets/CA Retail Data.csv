@@ -1,0 +1,165 @@
+GEO_ID,GEO_ID_F,NAME,NAICS2017,NAICS2017_F,NAICS2017_LABEL,YEAR,FIRM,ESTAB,RCPTOT,PAYANN,PAYQTR1,EMP,RCPTOT_IMP,PAYANN_IMP,EMP_IMP
+id,Geo Footnote,Geographic Area Name,2017 NAICS code,2017 NAICS Footnote,Meaning of NAICS code,Year,Number of firms,Number of establishments,"Sales, value of shipments, or revenue ($1,000)","Annual payroll ($1,000)","First-quarter payroll ($1,000)",Number of employees,"Range indicating percent of total sales, value of shipments, or revenue imputed",Range indicating percent of total annual payroll imputed,Range indicating percent of total employees imputed
+0400000US06,null,California,44-45,null,Retail trade,2017,70307,108233,594861377,54229430,13218933,1723278,10% to less than 20%,10% to less than 20%,20% to less than 30%
+0400000US06,null,California,441,null,Motor vehicle and parts dealers,2017,7052,10140,133804387,10570959,2539253,204691,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US06,null,California,442,null,Furniture and home furnishings stores,2017,3521,5200,12843483,1622359,389572,49954,20% to less than 30%,20% to less than 30%,30% to less than 40%
+0400000US06,null,California,443,null,Electronics and appliance stores,2017,2181,3404,12347002,1383482,329123,44072,Less than 10%,30% to less than 40%,20% to less than 30%
+0400000US06,null,California,444,null,Building material and garden equipment and supplies dealers,2017,4572,6628,34015449,3920472,941230,121000,Less than 10%,Less than 10%,Less than 10%
+0400000US06,null,California,445,null,Food and beverage stores,2017,12985,17358,96204165,10040459,2493314,357427,Less than 10%,Less than 10%,Less than 10%
+0400000US06,null,California,446,null,Health and personal care stores,2017,5034,10289,35424552,4079813,1025826,115634,Less than 10%,20% to less than 30%,20% to less than 30%
+0400000US06,null,California,447,null,Gasoline stations,2017,5344,7926,44471722,1481444,350367,62475,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US06,null,California,448,null,Clothing and clothing accessories stores,2017,7538,17413,39609173,5032486,1180044,249697,20% to less than 30%,20% to less than 30%,30% to less than 40%
+0400000US06,null,California,451,null,"Sporting goods, hobby, musical instrument, and book stores",2017,3229,4711,8769640,1158162,280787,62644,Less than 10%,Less than 10%,10% to less than 20%
+0400000US06,null,California,452,null,General merchandise stores,2017,902,3368,73153989,7008660,1773517,262809,Less than 10%,20% to less than 30%,30% to less than 40%
+0400000US06,null,California,453,null,Miscellaneous store retailers,2017,8137,11027,13034148,1970235,471191,81479,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US06,null,California,454,null,Nonstore retailers,2017,10244,10769,91183667,5960899,1444709,111396,Less than 10%,10% to less than 20%,10% to less than 20%
+0400000US06,null,California,4411,null,Automobile dealers,2017,2961,3486,118227293,8252553,1983494,138141,10% to less than 20%,Less than 10%,10% to less than 20%
+0400000US06,null,California,4412,null,Other motor vehicle dealers,2017,902,1047,5380068,564395,127504,12376,Less than 10%,10% to less than 20%,10% to less than 20%
+0400000US06,null,California,4413,null,"Automotive parts, accessories, and tire stores",2017,3200,5607,10197026,1754011,428255,54174,10% to less than 20%,30% to less than 40%,30% to less than 40%
+0400000US06,null,California,4421,null,Furniture stores,2017,1554,2298,6445848,771266,189227,19668,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US06,null,California,4422,null,Home furnishings stores,2017,1971,2902,6397635,851093,200345,30286,20% to less than 30%,20% to less than 30%,40% to less than 50%
+0400000US06,null,California,4431,null,Electronics and appliance stores,2017,2181,3404,12347002,1383482,329123,44072,Less than 10%,30% to less than 40%,20% to less than 30%
+0400000US06,null,California,4441,null,Building material and supplies dealers,2017,3503,5333,31319468,3557259,859853,108826,Less than 10%,Less than 10%,Less than 10%
+0400000US06,null,California,4442,null,Lawn and garden equipment and supplies stores,2017,1076,1295,2695981,363213,81377,12174,Less than 10%,Less than 10%,10% to less than 20%
+0400000US06,null,California,4451,null,Grocery stores,2017,6970,10489,88932227,9268152,2313064,320639,Less than 10%,Less than 10%,Less than 10%
+0400000US06,null,California,4452,null,Specialty food stores,2017,2204,2766,2851111,406816,97990,20650,10% to less than 20%,Less than 10%,10% to less than 20%
+0400000US06,null,California,4453,null,"Beer, wine, and liquor stores",2017,3837,4103,4420827,365491,82260,16138,10% to less than 20%,Less than 10%,Less than 10%
+0400000US06,null,California,4461,null,Health and personal care stores,2017,5034,10289,35424552,4079813,1025826,115634,Less than 10%,20% to less than 30%,20% to less than 30%
+0400000US06,null,California,4471,null,Gasoline stations,2017,5344,7926,44471722,1481444,350367,62475,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US06,null,California,4481,null,Clothing stores,2017,4855,11566,29445864,3854681,886078,201949,10% to less than 20%,20% to less than 30%,30% to less than 40%
+0400000US06,null,California,4482,null,Shoe stores,2017,710,3027,5125618,599440,148973,33829,40% to less than 50%,40% to less than 50%,40% to less than 50%
+0400000US06,null,California,4483,null,"Jewelry, luggage, and leather goods stores",2017,2000,2820,5037691,578365,144993,13919,10% to less than 20%,20% to less than 30%,10% to less than 20%
+0400000US06,null,California,4511,null,"Sporting goods, hobby, and musical instrument stores",2017,2821,3999,7568879,972419,231845,50101,10% to less than 20%,Less than 10%,10% to less than 20%
+0400000US06,null,California,4512,null,Book stores and news dealers,2017,408,712,1200761,185743,48942,12543,Less than 10%,20% to less than 30%,20% to less than 30%
+0400000US06,null,California,4522,null,Department stores,2017,7,358,7895310,1254394,304049,54588,Less than 10%,10% to less than 20%,10% to less than 20%
+0400000US06,null,California,4523,null,"General merchandise stores, including warehouse clubs and supercenters",2017,897,3010,65258679,5754266,1469468,208221,Less than 10%,20% to less than 30%,30% to less than 40%
+0400000US06,null,California,4531,null,Florists,2017,1109,1131,476444,98039,23931,4744,10% to less than 20%,Less than 10%,Less than 10%
+0400000US06,null,California,4532,null,"Office supplies, stationery, and gift stores",2017,1936,2966,3623643,533395,125320,25736,10% to less than 20%,10% to less than 20%,20% to less than 30%
+0400000US06,null,California,4533,null,Used merchandise stores,2017,1119,1906,1777770,441892,108912,19973,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US06,null,California,4539,null,Other miscellaneous store retailers,2017,3988,5024,7156291,896909,213028,31026,10% to less than 20%,Less than 10%,10% to less than 20%
+0400000US06,null,California,4541,null,Electronic shopping and mail-order houses,2017,7577,7673,85667169,5083876,1230317,90112,Less than 10%,10% to less than 20%,10% to less than 20%
+0400000US06,null,California,4542,null,Vending machine operators,2017,215,244,685012,112651,27030,2718,Less than 10%,30% to less than 40%,30% to less than 40%
+0400000US06,null,California,4543,null,Direct selling establishments,2017,2458,2852,4831486,764372,187362,18566,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US06,null,California,44111,null,New car dealers,2017,1537,1937,108354722,7673667,1841345,125319,10% to less than 20%,Less than 10%,10% to less than 20%
+0400000US06,null,California,44112,null,Used car dealers,2017,1436,1549,9872571,578886,142149,12822,10% to less than 20%,Less than 10%,Less than 10%
+0400000US06,null,California,44121,null,Recreational vehicle dealers,2017,212,251,2574227,242722,52909,4479,Less than 10%,10% to less than 20%,10% to less than 20%
+0400000US06,null,California,44122,null,"Motorcycle, boat, and other motor vehicle dealers",2017,690,796,2805841,321673,74595,7897,Less than 10%,Less than 10%,Less than 10%
+0400000US06,null,California,44131,null,Automotive parts and accessories stores,2017,1765,3359,6464786,1030831,257127,36270,20% to less than 30%,20% to less than 30%,20% to less than 30%
+0400000US06,null,California,44132,null,Tire dealers,2017,1439,2248,3732240,723180,171128,17904,10% to less than 20%,40% to less than 50%,40% to less than 50%
+0400000US06,null,California,44211,null,Furniture stores,2017,1554,2298,6445848,771266,189227,19668,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US06,null,California,44221,null,Floor covering stores,2017,950,1137,2269858,356345,81455,7999,10% to less than 20%,Less than 10%,Less than 10%
+0400000US06,null,California,44229,null,Other home furnishings stores,2017,1021,1765,4127777,494748,118890,22287,30% to less than 40%,40% to less than 50%,50% to less than 60%
+0400000US06,null,California,44314,null,Electronics and appliance stores,2017,2181,3404,12347002,1383482,329123,44072,Less than 10%,30% to less than 40%,20% to less than 30%
+0400000US06,null,California,44411,null,Home centers,2017,133,503,17365982,1644735,401704,61001,Less than 10%,Less than 10%,Less than 10%
+0400000US06,null,California,44412,null,Paint and wallpaper stores,2017,167,719,1288473,159952,38196,4186,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US06,null,California,44413,null,Hardware stores,2017,762,1202,2720095,453493,110595,16268,20% to less than 30%,10% to less than 20%,20% to less than 30%
+0400000US06,null,California,44419,null,Other building material dealers,2017,2464,2909,9944918,1299079,309358,27371,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US06,null,California,44421,null,Outdoor power equipment stores,2017,162,174,278739,38900,8843,1052,Less than 10%,Less than 10%,Less than 10%
+0400000US06,null,California,44422,null,"Nursery, garden center, and farm supply stores",2017,916,1121,2417242,324313,72534,11122,Less than 10%,Less than 10%,10% to less than 20%
+0400000US06,null,California,44511,null,Supermarkets and other grocery (except convenience) stores,2017,4733,7781,85418914,8938396,2232550,304229,Less than 10%,Less than 10%,Less than 10%
+0400000US06,null,California,44512,null,Convenience stores,2017,2242,2708,3513313,329756,80514,16410,20% to less than 30%,Less than 10%,10% to less than 20%
+0400000US06,null,California,44521,null,Meat markets,2017,512,551,751259,94663,21928,3643,Less than 10%,Less than 10%,Less than 10%
+0400000US06,null,California,44522,null,Fish and seafood markets,2017,152,154,184149,24238,5859,1009,Less than 10%,Less than 10%,Less than 10%
+0400000US06,null,California,44523,null,Fruit and vegetable markets,2017,308,317,708980,62486,14424,2699,30% to less than 40%,Less than 10%,Less than 10%
+0400000US06,null,California,44529,null,Other specialty food stores,2017,1233,1744,1206723,225429,55779,13299,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US06,null,California,44531,null,"Beer, wine, and liquor stores",2017,3837,4103,4420827,365491,82260,16138,10% to less than 20%,Less than 10%,Less than 10%
+0400000US06,null,California,44611,null,Pharmacies and drug stores,2017,2056,4513,28692676,2970900,754293,72480,Less than 10%,20% to less than 30%,30% to less than 40%
+0400000US06,null,California,44612,null,"Cosmetics, beauty supplies, and perfume stores",2017,1024,2302,3491456,488786,123540,23399,Less than 10%,Less than 10%,Less than 10%
+0400000US06,null,California,44613,null,Optical goods stores,2017,372,1163,977471,197560,44985,7676,10% to less than 20%,50% to less than 60%,70% to less than 80%
+0400000US06,null,California,44619,null,Other health and personal care stores,2017,1590,2311,2262949,422567,103008,12079,10% to less than 20%,Less than 10%,10% to less than 20%
+0400000US06,null,California,44711,null,Gasoline stations with convenience stores,2017,4524,6567,36186770,1205552,284567,52045,20% to less than 30%,10% to less than 20%,10% to less than 20%
+0400000US06,null,California,44719,null,Other gasoline stations,2017,909,1359,8284952,275892,65800,10430,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US06,null,California,44811,null,Men's clothing stores,2017,474,795,1219287,190514,46999,6618,20% to less than 30%,10% to less than 20%,20% to less than 30%
+0400000US06,null,California,44812,null,Women's clothing stores,2017,1913,3662,5664518,781941,192484,41531,30% to less than 40%,30% to less than 40%,40% to less than 50%
+0400000US06,null,California,44813,null,Children's and infants' clothing stores,2017,237,801,952541,133756,31890,9202,Less than 10%,20% to less than 30%,20% to less than 30%
+0400000US06,null,California,44814,null,Family clothing stores,2017,939,3744,17552011,2209187,480986,119105,Less than 10%,20% to less than 30%,20% to less than 30%
+0400000US06,null,California,44815,null,Clothing accessories stores,2017,499,1084,1891396,221633,55429,10022,50% to less than 60%,40% to less than 50%,30% to less than 40%
+0400000US06,null,California,44819,null,Other clothing stores,2017,883,1480,2166111,317650,78290,15471,20% to less than 30%,10% to less than 20%,20% to less than 30%
+0400000US06,null,California,44821,null,Shoe stores,2017,710,3027,5125618,599440,148973,33829,40% to less than 50%,40% to less than 50%,40% to less than 50%
+0400000US06,null,California,44831,null,Jewelry stores,2017,1912,2650,4457360,529836,133079,12845,10% to less than 20%,20% to less than 30%,10% to less than 20%
+0400000US06,null,California,44832,null,Luggage and leather goods stores,2017,89,170,580331,48529,11914,1074,10% to less than 20%,10% to less than 20%,20% to less than 30%
+0400000US06,null,California,45111,null,Sporting goods stores,2017,1697,2285,4479095,563523,133580,24008,10% to less than 20%,Less than 10%,10% to less than 20%
+0400000US06,null,California,45112,null,"Hobby, toy, and game stores",2017,527,930,2073225,260730,62398,18734,Less than 10%,Less than 10%,Less than 10%
+0400000US06,null,California,45113,null,"Sewing, needlework, and piece goods stores",2017,304,407,430830,65328,15430,4144,Less than 10%,Less than 10%,Less than 10%
+0400000US06,null,California,45114,null,Musical instrument and supplies stores,2017,294,377,585729,82838,20437,3215,10% to less than 20%,Less than 10%,10% to less than 20%
+0400000US06,null,California,45121,null,Book stores and news dealers,2017,408,712,1200761,185743,48942,12543,Less than 10%,20% to less than 30%,20% to less than 30%
+0400000US06,null,California,45221,null,Department stores,2017,7,358,7895310,1254394,304049,54588,Less than 10%,10% to less than 20%,10% to less than 20%
+0400000US06,null,California,45231,null,"General merchandise stores, including warehouse clubs and supercenters",2017,897,3010,65258679,5754266,1469468,208221,Less than 10%,20% to less than 30%,30% to less than 40%
+0400000US06,null,California,45311,null,Florists,2017,1109,1131,476444,98039,23931,4744,10% to less than 20%,Less than 10%,Less than 10%
+0400000US06,null,California,45321,null,Office supplies and stationery stores,2017,333,697,1563905,185640,45034,8970,Less than 10%,Less than 10%,Less than 10%
+0400000US06,null,California,45322,null,"Gift, novelty, and souvenir stores",2017,1604,2269,2059738,347755,80286,16766,20% to less than 30%,10% to less than 20%,30% to less than 40%
+0400000US06,null,California,45331,null,Used merchandise stores,2017,1119,1906,1777770,441892,108912,19973,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US06,null,California,45391,null,Pet and pet supplies stores,2017,652,1230,2537881,375488,91178,15666,10% to less than 20%,Less than 10%,10% to less than 20%
+0400000US06,null,California,45392,null,Art dealers,2017,629,665,1153682,121771,26667,2407,Less than 10%,Less than 10%,10% to less than 20%
+0400000US06,null,California,45393,null,Manufactured (mobile) home dealers,2017,91,118,311043,26540,5922,604,10% to less than 20%,10% to less than 20%,20% to less than 30%
+0400000US06,null,California,45399,null,All other miscellaneous store retailers,2017,2616,3011,3153685,373110,89261,12349,20% to less than 30%,10% to less than 20%,10% to less than 20%
+0400000US06,null,California,45411,null,Electronic shopping and mail-order houses,2017,7577,7673,85667169,5083876,1230317,90112,Less than 10%,10% to less than 20%,10% to less than 20%
+0400000US06,null,California,45421,null,Vending machine operators,2017,215,244,685012,112651,27030,2718,Less than 10%,30% to less than 40%,30% to less than 40%
+0400000US06,null,California,45431,null,Fuel dealers,2017,128,296,1173323,129580,33700,2548,10% to less than 20%,Less than 10%,Less than 10%
+0400000US06,null,California,45439,null,Other direct selling establishments,2017,2330,2556,3658163,634792,153662,16018,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US06,null,California,441110,null,New car dealers,2017,1537,1937,108354722,7673667,1841345,125319,10% to less than 20%,Less than 10%,10% to less than 20%
+0400000US06,null,California,441120,null,Used car dealers,2017,1436,1549,9872571,578886,142149,12822,10% to less than 20%,Less than 10%,Less than 10%
+0400000US06,null,California,441210,null,Recreational vehicle dealers,2017,212,251,2574227,242722,52909,4479,Less than 10%,10% to less than 20%,10% to less than 20%
+0400000US06,null,California,441222,null,Boat dealers,2017,180,227,653021,66950,15026,1724,Less than 10%,Less than 10%,10% to less than 20%
+0400000US06,null,California,441228,null,"Motorcycle, ATV, and all other motor vehicle dealers",2017,510,569,2152820,254723,59569,6173,Less than 10%,Less than 10%,Less than 10%
+0400000US06,null,California,441310,null,Automotive parts and accessories stores,2017,1765,3359,6464786,1030831,257127,36270,20% to less than 30%,20% to less than 30%,20% to less than 30%
+0400000US06,null,California,441320,null,Tire dealers,2017,1439,2248,3732240,723180,171128,17904,10% to less than 20%,40% to less than 50%,40% to less than 50%
+0400000US06,null,California,442110,null,Furniture stores,2017,1554,2298,6445848,771266,189227,19668,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US06,null,California,442210,null,Floor covering stores,2017,950,1137,2269858,356345,81455,7999,10% to less than 20%,Less than 10%,Less than 10%
+0400000US06,null,California,442291,null,Window treatment stores,2017,211,237,242656,44233,9954,1120,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US06,null,California,442299,null,All other home furnishings stores,2017,810,1528,3885121,450515,108936,21167,30% to less than 40%,40% to less than 50%,50% to less than 60%
+0400000US06,null,California,443141,null,Household appliance stores,2017,481,646,1930426,211779,53914,5554,Less than 10%,10% to less than 20%,10% to less than 20%
+0400000US06,null,California,443142,null,Electronics stores,2017,1702,2758,10416576,1171703,275209,38518,Less than 10%,40% to less than 50%,30% to less than 40%
+0400000US06,null,California,444110,null,Home centers,2017,133,503,17365982,1644735,401704,61001,Less than 10%,Less than 10%,Less than 10%
+0400000US06,null,California,444120,null,Paint and wallpaper stores,2017,167,719,1288473,159952,38196,4186,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US06,null,California,444130,null,Hardware stores,2017,762,1202,2720095,453493,110595,16268,20% to less than 30%,10% to less than 20%,20% to less than 30%
+0400000US06,null,California,444190,null,Other building material dealers,2017,2464,2909,9944918,1299079,309358,27371,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US06,null,California,444210,null,Outdoor power equipment stores,2017,162,174,278739,38900,8843,1052,Less than 10%,Less than 10%,Less than 10%
+0400000US06,null,California,444220,null,"Nursery, garden center, and farm supply stores",2017,916,1121,2417242,324313,72534,11122,Less than 10%,Less than 10%,10% to less than 20%
+0400000US06,null,California,445110,null,Supermarkets and other grocery (except convenience) stores,2017,4733,7781,85418914,8938396,2232550,304229,Less than 10%,Less than 10%,Less than 10%
+0400000US06,null,California,445120,null,Convenience stores,2017,2242,2708,3513313,329756,80514,16410,20% to less than 30%,Less than 10%,10% to less than 20%
+0400000US06,null,California,445210,null,Meat markets,2017,512,551,751259,94663,21928,3643,Less than 10%,Less than 10%,Less than 10%
+0400000US06,null,California,445220,null,Fish and seafood markets,2017,152,154,184149,24238,5859,1009,Less than 10%,Less than 10%,Less than 10%
+0400000US06,null,California,445230,null,Fruit and vegetable markets,2017,308,317,708980,62486,14424,2699,30% to less than 40%,Less than 10%,Less than 10%
+0400000US06,null,California,445291,null,Baked goods stores,2017,307,355,244127,61151,14764,2854,10% to less than 20%,20% to less than 30%,20% to less than 30%
+0400000US06,null,California,445292,null,Confectionery and nut stores,2017,271,559,445738,71739,17901,4512,10% to less than 20%,Less than 10%,10% to less than 20%
+0400000US06,null,California,445299,null,All other specialty food stores,2017,656,830,516858,92539,23114,5933,10% to less than 20%,10% to less than 20%,20% to less than 30%
+0400000US06,null,California,445310,null,"Beer, wine, and liquor stores",2017,3837,4103,4420827,365491,82260,16138,10% to less than 20%,Less than 10%,Less than 10%
+0400000US06,null,California,446110,null,Pharmacies and drug stores,2017,2056,4513,28692676,2970900,754293,72480,Less than 10%,20% to less than 30%,30% to less than 40%
+0400000US06,null,California,446120,null,"Cosmetics, beauty supplies, and perfume stores",2017,1024,2302,3491456,488786,123540,23399,Less than 10%,Less than 10%,Less than 10%
+0400000US06,null,California,446130,null,Optical goods stores,2017,372,1163,977471,197560,44985,7676,10% to less than 20%,50% to less than 60%,70% to less than 80%
+0400000US06,null,California,446191,null,Food (health) supplement stores,2017,768,1318,970068,161698,39560,6550,10% to less than 20%,Less than 10%,10% to less than 20%
+0400000US06,null,California,446199,null,All other health and personal care stores,2017,822,993,1292881,260869,63448,5529,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US06,null,California,447110,null,Gasoline stations with convenience stores,2017,4524,6567,36186770,1205552,284567,52045,20% to less than 30%,10% to less than 20%,10% to less than 20%
+0400000US06,null,California,447190,null,Other gasoline stations,2017,909,1359,8284952,275892,65800,10430,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US06,null,California,448110,null,Men's clothing stores,2017,474,795,1219287,190514,46999,6618,20% to less than 30%,10% to less than 20%,20% to less than 30%
+0400000US06,null,California,448120,null,Women's clothing stores,2017,1913,3662,5664518,781941,192484,41531,30% to less than 40%,30% to less than 40%,40% to less than 50%
+0400000US06,null,California,448130,null,Children's and infants' clothing stores,2017,237,801,952541,133756,31890,9202,Less than 10%,20% to less than 30%,20% to less than 30%
+0400000US06,null,California,448140,null,Family clothing stores,2017,939,3744,17552011,2209187,480986,119105,Less than 10%,20% to less than 30%,20% to less than 30%
+0400000US06,null,California,448150,null,Clothing accessories stores,2017,499,1084,1891396,221633,55429,10022,50% to less than 60%,40% to less than 50%,30% to less than 40%
+0400000US06,null,California,448190,null,Other clothing stores,2017,883,1480,2166111,317650,78290,15471,20% to less than 30%,10% to less than 20%,20% to less than 30%
+0400000US06,null,California,448210,null,Shoe stores,2017,710,3027,5125618,599440,148973,33829,40% to less than 50%,40% to less than 50%,40% to less than 50%
+0400000US06,null,California,448310,null,Jewelry stores,2017,1912,2650,4457360,529836,133079,12845,10% to less than 20%,20% to less than 30%,10% to less than 20%
+0400000US06,null,California,448320,null,Luggage and leather goods stores,2017,89,170,580331,48529,11914,1074,10% to less than 20%,10% to less than 20%,20% to less than 30%
+0400000US06,null,California,451110,null,Sporting goods stores,2017,1697,2285,4479095,563523,133580,24008,10% to less than 20%,Less than 10%,10% to less than 20%
+0400000US06,null,California,451120,null,"Hobby, toy, and game stores",2017,527,930,2073225,260730,62398,18734,Less than 10%,Less than 10%,Less than 10%
+0400000US06,null,California,451130,null,"Sewing, needlework, and piece goods stores",2017,304,407,430830,65328,15430,4144,Less than 10%,Less than 10%,Less than 10%
+0400000US06,null,California,451140,null,Musical instrument and supplies stores,2017,294,377,585729,82838,20437,3215,10% to less than 20%,Less than 10%,10% to less than 20%
+0400000US06,null,California,451211,null,Book stores,2017,333,627,1135876,171552,45445,11953,Less than 10%,20% to less than 30%,20% to less than 30%
+0400000US06,null,California,451212,null,News dealers and newsstands,2017,75,85,64885,14191,3497,590,20% to less than 30%,Less than 10%,40% to less than 50%
+0400000US06,null,California,452210,null,Department stores,2017,7,358,7895310,1254394,304049,54588,Less than 10%,10% to less than 20%,10% to less than 20%
+0400000US06,null,California,452311,null,Warehouse clubs and supercenters,2017,4,699,59463537,5103543,1308764,169821,Less than 10%,20% to less than 30%,30% to less than 40%
+0400000US06,null,California,452319,null,All other general merchandise stores,2017,893,2311,5795142,650723,160704,38400,10% to less than 20%,40% to less than 50%,40% to less than 50%
+0400000US06,null,California,453110,null,Florists,2017,1109,1131,476444,98039,23931,4744,10% to less than 20%,Less than 10%,Less than 10%
+0400000US06,null,California,453210,null,Office supplies and stationery stores,2017,333,697,1563905,185640,45034,8970,Less than 10%,Less than 10%,Less than 10%
+0400000US06,null,California,453220,null,"Gift, novelty, and souvenir stores",2017,1604,2269,2059738,347755,80286,16766,20% to less than 30%,10% to less than 20%,30% to less than 40%
+0400000US06,null,California,453310,null,Used merchandise stores,2017,1119,1906,1777770,441892,108912,19973,10% to less than 20%,10% to less than 20%,10% to less than 20%
+0400000US06,null,California,453910,null,Pet and pet supplies stores,2017,652,1230,2537881,375488,91178,15666,10% to less than 20%,Less than 10%,10% to less than 20%
+0400000US06,null,California,453920,null,Art dealers,2017,629,665,1153682,121771,26667,2407,Less than 10%,Less than 10%,10% to less than 20%
+0400000US06,null,California,453930,null,Manufactured (mobile) home dealers,2017,91,118,311043,26540,5922,604,10% to less than 20%,10% to less than 20%,20% to less than 30%
+0400000US06,null,California,453991,null,Tobacco stores,2017,1113,1196,651404,55910,13535,2845,10% to less than 20%,Less than 10%,Less than 10%
+0400000US06,null,California,453998,null,All other miscellaneous store retailers (except tobacco stores),2017,1503,1815,2502281,317200,75726,9504,20% to less than 30%,10% to less than 20%,10% to less than 20%
+0400000US06,null,California,454110,null,Electronic shopping and mail-order houses,2017,7577,7673,85667169,5083876,1230317,90112,Less than 10%,10% to less than 20%,10% to less than 20%
+0400000US06,null,California,454210,null,Vending machine operators,2017,215,244,685012,112651,27030,2718,Less than 10%,30% to less than 40%,30% to less than 40%
+0400000US06,null,California,454310,null,Fuel dealers,2017,128,296,1173323,129580,33700,2548,10% to less than 20%,Less than 10%,Less than 10%
+0400000US06,null,California,454390,null,Other direct selling establishments,2017,2330,2556,3658163,634792,153662,16018,10% to less than 20%,10% to less than 20%,10% to less than 20%
