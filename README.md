@@ -3,7 +3,7 @@ Team Members: Jeremy Najera & Maria Quinton
 
 Project Description/Outline:
 
-    Our project is to uncover trends in ecommerce business across the United States, specifically by state. We will examine relationships between ecommerce trends and state; ecommerce products and state; ecommerce trends throughout the year; along with demographically the breakdown of ecommerce customers. 
+    Our project is to uncover trends in ecommerce business across the United States, specifically by state. We will examine relationships between ecommerce trends and state; ecommerce products and state; along with number of ecommerce establishments and state.
 
 Research Questions to Answer:
 
@@ -15,34 +15,32 @@ Research Questions to Answer:
 
 2. What are the top five products/product categories in each state?
     * Alt: 
-        * If location relates to product type, then certain products can targeted regionally.
+        * If location relates to product type, then certain products can be targeted regionally.
     * Null: 
-        * If location does not relate to product type, then certain product cannot be targetted regionally
-3. How many people purchase products they search for?
+        * If location does not relate to product type, then certain product cannot be targeted regionally
+3. Does ecommerce business increase based on location?
     * Alt:
-        * If searching for a product affects the likelihood consumers will purchase a product, then most people who search for a product will purchase it.
+        * If location affects ecommerce business, then certain states will have more ecommerce businesses than others.
     * Null:
-        * If searching for a product does not affect the likelihood consumers will purchase a product, then most people who search for a product will not purchase it.
-4. Demographically, what do typical ecommerce customers look like?
-    * Alt:
-        * If demographics define typical ecommerce customers, then it will be clear who is likely to use eccommerce sites vs. shopping in person.
-    * Null:
-        * If demographics do not define typical ecommerce customers, then it will be not clear who is likely to use eccommerce sites vs. shopping in person.
-5. Are there certain times of year that ecommerce shopping increases?
-    * Alt:
-        * If time of year affects ecommerce trends, then certain times of year will see an increase in ecommerce business.
-    * Null:
-        * If time of year does not affect ecommerce trends, then certain times of year will see no increase in ecommerce business.
+        * If location does not affect ecommerce business, then certain states will not have more ecommerce businesses than others.
 
 Datasets to Be Used:
 
 - https://www.census.gov/data/tables/2018/econ/e-stats/2018-e-stats.html
 - https://www.census.gov/programs-surveys/economic-census/news-updates/releases.html
 
-Rough Breakdown of Tasks:
-
-- Data Set Clean-Up (Shared)
+Breakdown of Tasks:
+- Data Set Clean-Up, Pandas (Shared)
+    - Est. timeline (1-2 days, finish by Monday)
 - Finalizing data (Shared)
+    - Est. timeline (4 hours)
 - Presentation Materials (Maria)
-- Visualization (Jeremy 3-4)
-- Visualization (Maria 3-4)
+    - Est. timeline (1-2 hours, finish by Tuesday)
+- Finalize Jupyter notebook (shared)
+    - Est. timeline (1-2 days, finish by Tuesday)
+- Matplotlib Visualization (Jeremy 3)
+    - Est. timeline (2-3 hours)
+- Matplotlib Visualization (Maria 3)
+    - Est. timeline (2-3 hours)
+- Write-up (Shared)
+    - (Less than an hour, finish by Monday)
