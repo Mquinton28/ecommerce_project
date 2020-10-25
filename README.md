@@ -27,6 +27,7 @@ Research Questions to Answer:
 Datasets to Be Used:
 
 - https://www.census.gov/data/tables/2018/econ/e-stats/2018-e-stats.html
+    - Table 3 & Historical Table 4
 - https://www.census.gov/programs-surveys/economic-census/news-updates/releases.html
 
 Breakdown of Tasks:
