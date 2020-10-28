@@ -5,6 +5,25 @@ Project Description/Outline:
 
     Our project is to uncover trends in ecommerce business across the United States, specifically by state. We will examine relationships between ecommerce trends and state; ecommerce products and ecommerce trends; along with number of ecommerce establishments and state.
 
+Project Writeup
+    **Do certain states in the U.S. use ecommerce more than in-person shopping?**
+    Our research found us to reject the alt hypothesis and accept the null to be true. We found location in the United States does not relate to ecommerce and in-person trends therefore they are no affected. Keeping in mind we only analyzed a sample of the U.S., but of the five states examined percentages of ecommerce and in-person shopping were very similar, with small variations. Overall, in-person shopping accounted for the majority of dollars spent per state. In each state over 80% of retail spending was spent in-person at brick and mortar establisments. 
+    - Relevent plots: State plots
+    **What are the top five product/product categories for ecommerce in the U.S.?**
+    After examining the retail data history from 2018-1998 we found the top five product categories to be:
+    1. Nonstore retailers
+    2. Electronic Shopping & Mail order houses
+    3. Motor Vehicle
+    4. Clothing & Accessories
+    5. Misc. Stores
+    - Relevent plots: Bar charts with product categories
+    **Does ecommerce business increase based on location?**
+    By comparing number of establishments for ecommerce across five states, we found that ecommerce business does not seem to increase drastically state by state. 
+    - Relevent plots: Bar charts showing number of establishments
+
+Slide Deck Link:
+- https://docs.google.com/presentation/d/1pI6Nqrs9aN4OV-TTSvKlcqaPNcVsn2-OT4199TTdgQM/edit?usp=sharing
+
 Research Questions to Answer:
 
 1. Do certain states in the U.S. use ecommerce more than in-person shopping?
