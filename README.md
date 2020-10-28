@@ -19,7 +19,7 @@ Project Writeup:
     5. Misc. Stores
     - Relevent plots: Bar charts with product categories
     3. Does ecommerce business increase based on location?
-    By comparing number of establishments for ecommerce across five states, we found that ecommerce business does not seem to increase drastically state by state. 
+    By comparing number of establishments for ecommerce across five states, we found that ecommerce business does seem to increase state by state, but not without more data on other factors we cannot say there is a causation of why. 
     - Relevent plots: Bar charts showing number of establishments
 
 Slide Deck Link:
